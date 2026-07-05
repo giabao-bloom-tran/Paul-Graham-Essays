@@ -1,0 +1,420 @@
+NA
+
+ ---- NEW ESSAY ---- 
+
+NA
+
+ ---- NEW ESSAY ---- 
+
+December 2020To celebrate Airbnb's IPO and to help future founders, I thought
+it might be useful to explain what was special about Airbnb.What was special about the Airbnbs was how earnest they were. They
+did nothing half-way, and we could sense this even in the interview.
+Sometimes after we interviewed a startup we'd be uncertain what to
+do, and have to talk it over. Other times we'd just look at one
+another and smile. The Airbnbs' interview was that kind. We didn't
+even like the idea that much. Nor did users, at that stage; they
+had no growth. But the founders seemed so full of energy that it
+was impossible not to like them.That first impression was not misleading. During the batch our
+nickname for Brian Chesky was The Tasmanian Devil, because like the
+cartoon
+character he seemed a tornado of energy. All three of them were
+like that. No one ever worked harder during YC than the Airbnbs
+did. When you talked to the Airbnbs, they took notes. If you suggested
+an idea to them in office hours, the next time you talked to them
+they'd not only have implemented it, but also implemented two new
+ideas they had in the process. "They probably have the best attitude
+of any startup we've funded" I wrote to Mike Arrington during the
+batch.They're still like that. Jessica and I had dinner with Brian in the
+summer of 2018, just the three of us. By this point the company is
+ten years old. He took a page of notes about ideas for new things
+Airbnb could do.What we didn't realize when we first met Brian and Joe and Nate was
+that Airbnb was on its last legs. After working on the company for
+a year and getting no growth, they'd agreed to give it one last
+shot. They'd try this Y Combinator thing, and if the company still
+didn't take off, they'd give up.Any normal person would have given up already. They'd been funding
+the company with credit cards. They had a binder full of
+credit cards they'd maxed out. Investors didn't think much of the
+idea. One investor they met in a cafe walked out in the middle of
+meeting with them. They thought he was going to the bathroom, but
+he never came back. "He didn't even finish his smoothie," Brian
+said. And now, in late 2008, it was the worst recession in decades.
+The stock market was in free fall and wouldn't hit bottom for another
+four months.Why hadn't they given up? This is a useful question to ask. People,
+like matter, reveal their nature under extreme conditions. One thing
+that's clear is that they weren't doing this just for the money.
+As a money-making scheme, this was pretty lousy: a year's work and
+all they had to show for it was a binder full of maxed-out credit
+cards. So why were they still working on this startup? Because of
+the experience they'd had as the first hosts.When they first tried renting out airbeds on their floor during a
+design convention, all they were hoping for was to make enough money
+to pay their rent that month. But something surprising happened:
+they enjoyed having those first three guests staying with them. And
+the guests enjoyed it too. Both they and the guests had done it
+because they were in a sense forced to, and yet they'd all had a
+great experience. Clearly there was something new here: for hosts,
+a new way to make money that had literally been right under their
+noses, and for guests, a new way to travel that was in many ways
+better than hotels.That experience was why the Airbnbs didn't give up. They knew they'd
+discovered something. They'd seen a glimpse of the future, and they
+couldn't let it go.They knew that once people tried staying in what is now called "an
+airbnb," they would also realize that this was the future. But only
+if they tried it, and they weren't. That was the problem during Y
+Combinator: to get growth started.Airbnb's goal during YC was to reach what we call ramen profitability,
+which means making enough money that the company can pay the founders'
+living expenses, if they live on ramen noodles. Ramen profitability
+is not, obviously, the end goal of any startup, but it's the most
+important threshold on the way, because this is the point where
+you're airborne. This is the point where you no longer need investors'
+permission to continue existing. For the Airbnbs, ramen profitability
+was $4000 a month: $3500 for rent, and $500 for food. They taped
+this goal to the mirror in the bathroom of their apartment.The way to get growth started in something like Airbnb is to focus
+on the hottest subset of the market. If you can get growth started
+there, it will spread to the rest. When I asked the Airbnbs where
+there was most demand, they knew from searches: New York City. So
+they focused on New York. They went there in person to visit their
+hosts and help them make their listings more attractive. A big part
+of that was better pictures. So Joe and Brian rented a professional
+camera and took pictures of the hosts' places themselves.This didn't just make the listings better. It also taught them about
+their hosts. When they came back from their first trip to New York,
+I asked what they'd noticed about hosts that surprised them, and
+they said the biggest surprise was how many of the hosts were in
+the same position they'd been in: they needed this money to pay
+their rent. This was, remember, the worst recession in decades, and
+it had hit New York first. It definitely added to the Airbnbs' sense
+of mission to feel that people needed them.In late January 2009, about three weeks into Y Combinator, their
+efforts started to show results, and their numbers crept upward.
+But it was hard to say for sure whether it was growth or just random
+fluctuation. By February it was clear that it was real growth. They
+made $460 in fees in the first week of February, $897 in the second,
+and $1428 in the third. That was it: they were airborne. Brian sent
+me an email on February 22 announcing that they were ramen profitable
+and giving the last three weeks' numbers."I assume you know what you've now set yourself up for next week,"
+I responded.Brian's reply was seven words: "We are not going to slow down."
+
+ ---- NEW ESSAY ---- 
+
+NA
+
+ ---- NEW ESSAY ---- 
+
+NA
+
+ ---- NEW ESSAY ---- 
+
+August 2020Some politicians are proposing to introduce wealth taxes in addition
+to income and capital gains taxes. Let's try modeling the effects of various levels
+of wealth tax to see what they would mean in practice for a startup
+founder.Suppose you start a successful startup in your twenties, and then
+live for another 60 years. How much of your stock will a wealth tax
+consume?If the wealth tax applies to all your assets, it's easy to
+calculate its effect. A wealth tax of 1% means you get to keep
+99% of your stock each year. After 60 years the proportion
+of stock you'll have left will be .99^60, or .547. So a
+straight 1% wealth tax means the government will over the
+course of your life take 45% of your stock.(Losing shares does not, obviously, mean becoming net
+poorer unless the value per share is increasing by less than the 
+wealth tax rate.)Here's how much stock the government would take over 60
+years at various levels of wealth tax:
+wealth taxgovernment takes0.1%6%0.5%26%1.0%45%2.0%70%3.0%84%4.0%91%5.0%95%
+
+A wealth tax will usually have a threshold at which it starts.
+How much difference would a high threshold make? To model that,
+we need to make some assumptions about the initial value of
+your stock and the growth rate.Suppose your stock is initially
+worth $2 million, and the company's trajectory is as follows:
+the value of your stock grows 3x for 2 years, then 2x for 2 years,
+then 50% for 2 years, after
+which you just get a typical public company growth rate,
+which we'll call 8%. 
+[1]
+Suppose the wealth tax threshold is
+$50 million. How much stock does the government take now?
+
+wealth taxgovernment takes0.1%5%0.5%23%1.0%41%2.0%65%3.0%79%4.0%88%5.0%93%
+
+It may at first seem surprising that such apparently small tax rates
+produce such dramatic effects. A 2% wealth tax with a $50 million
+threshold takes about two thirds of a successful founder's stock.The reason wealth taxes have such dramatic effects is that they're
+applied over and over to the same money. Income tax
+happens every year, but only to that year's income. Whereas if you
+live for 60 years after acquiring some asset, a wealth tax will tax
+that same asset 60 times. A wealth tax compounds.Note[1]
+In practice, eventually some of this 8% would come in the form of 
+dividends, which are taxed as income at issue, so this model actually
+represents the most optimistic case for the founder.
+
+ ---- NEW ESSAY ---- 
+
+NA
+
+ ---- NEW ESSAY ---- 
+
+NA
+
+ ---- NEW ESSAY ---- 
+
+April 2020I recently saw a 
+video 
+of TV journalists and politicians confidently
+saying that the coronavirus would be no worse than the flu. What
+struck me about it was not just how mistaken they seemed, but how
+daring. How could they feel safe saying such things?The answer, I realized, is that they didn't think they could get
+caught. They didn't realize there was any danger in making false
+predictions. These people constantly make false predictions, and
+get away with it, because the things they make predictions about
+either have mushy enough outcomes that they can bluster their way
+out of trouble, or happen so far in the future that few remember
+what they said.An epidemic is different. It falsifies your predictions rapidly and
+unequivocally.But epidemics are rare enough that these people clearly
+didn't realize this was even a possibility. Instead they just
+continued to use their ordinary m.o., which, as the epidemic has
+made clear, is to talk confidently about things they don't
+understand.An event like this is thus a uniquely powerful way of taking people's
+measure. As Warren Buffett said, "It's only when the tide goes out
+that you learn who's been swimming naked." And the tide has just
+gone out like never before.Now that we've seen the results, let's remember what we saw, because
+this is the most accurate test of credibility we're ever likely to have. I hope.Finnish TranslationGerman TranslationFrench Translation
+
+ ---- NEW ESSAY ---- 
+
+NA
+
+ ---- NEW ESSAY ---- 
+
+January 2020When I was young, I thought old people had everything figured out.
+Now that I'm old, I know this isn't true.I constantly feel like a noob. It seems like I'm always talking to
+some startup working in a new field I know nothing about, or reading
+a book about a topic I don't understand well enough, or visiting some new
+country where I don't know how things work.It's not pleasant to feel like a noob. And the word "noob" is
+certainly not a compliment. And yet today I realized something
+encouraging about being a noob: the more of a noob you are locally,
+the less of a noob you are globally.For example, if you stay in your home country, you'll feel less
+of a noob than if you move to Farawavia, where everything works
+differently. And yet you'll know more if you move.
+So the feeling of being a noob is inversely correlated with actual
+ignorance.But if the feeling of being a noob is good for us, why do we dislike
+it? What evolutionary purpose could such an aversion serve?I think the answer is that there are two sources of feeling like a
+noob: being stupid, and doing something novel. Our dislike of feeling
+like a noob is our brain telling us "Come on, come on, figure this
+out." Which was the right thing to be thinking for most of human
+history. The life of hunter-gatherers was complex, but it didn't
+change as much as life does now. They didn't suddenly have to figure
+out what to do about cryptocurrency. So it made sense to be biased
+toward competence at existing problems over the discovery of new
+ones. It made sense for humans to dislike the feeling of being a
+noob, just as, in a world where food was scarce, it made sense for
+them to dislike the feeling of being hungry.Now that too much food is more of a problem than too little, our
+dislike of feeling hungry leads us astray. And I think our dislike
+of feeling like a noob does too.Though it feels unpleasant, and people will sometimes ridicule you
+for it, the more you feel like a noob, the better.Japanese TranslationArabic TranslationFrench TranslationKorean TranslationPolish TranslationChinese TranslationSerbian TranslationFrench Translation
+
+ ---- NEW ESSAY ---- 
+
+January 2020(I originally intended this for startup founders, who are often
+surprised by the attention they get as their companies grow, but
+it applies equally to anyone who becomes famous.)If you become sufficiently famous, you'll acquire some fans who
+like you too much. These people are sometimes called "fanboys," and
+though I dislike that term, I'm going to have to use it here.  We
+need some word for them, because this is a distinct phenomenon from
+someone simply liking your work.A fanboy is obsessive and uncritical. Liking you becomes part of
+their identity, and they create an image of you in their own head
+that is much better than reality. Everything you do is good, because
+you do it. If you do something bad, they find a way to see it as
+good. And their love for you is not, usually, a quiet, private one.
+They want everyone to know how great you are.Well, you may be thinking, I could do without this kind of obsessive
+fan, but I know there are all kinds of people in the world, and if
+this is the worst consequence of fame, that's not so bad.Unfortunately this is not the worst consequence of fame. As well
+as fanboys, you'll have haters.A hater is obsessive and uncritical. Disliking you becomes part of
+their identity, and they create an image of you in their own head
+that is much worse than reality. Everything you do is bad, because
+you do it. If you do something good, they find a way to see it as
+bad. And their dislike for you is not, usually, a quiet, private
+one. They want everyone to know how awful you are.If you're thinking of checking, I'll save you the trouble. The
+second and fifth paragraphs are identical except for "good" being
+switched to "bad" and so on.I spent years puzzling about haters.  What are they, and where do
+they come from? Then one day it dawned on me. Haters are just fanboys
+with the sign switched.Note that by haters, I don't simply mean trolls. I'm not talking about 
+people who say bad things about you and then move on. I'm talking
+about the much smaller group of people for whom this becomes a 
+kind of obsession and who do it repeatedly over a long period.Like fans, haters seem to be an automatic consequence of fame.
+Anyone sufficiently famous will have them. And like fans, haters
+are energized by the fame of whoever they hate. They hear a song
+by some pop singer. They don't like it much. If the singer were an
+obscure one, they'd just forget about it. But instead they keep
+hearing her name, and this seems to drive some people crazy.
+Everyone's always going on about this singer, but she's no good!
+She's a fraud!That word "fraud" is an important one. It's the spectral signature
+of a hater to regard the object of their hatred as a 
+fraud. They
+can't deny their fame. Indeed, their fame is if anything exaggerated
+in the hater's mind. They notice every mention of the singer's name,
+because every mention makes them angrier. In their own minds they
+exaggerate both the singer's fame and her lack of talent, and the
+only way to reconcile those two ideas is to conclude that she has
+tricked everyone.What sort of people become haters? Can anyone become one? I'm not
+sure about this, but I've noticed some patterns. Haters are generally
+losers in a very specific sense: although they are occasionally
+talented, they have never achieved much. And indeed, anyone
+successful enough to have achieved significant fame would be unlikely
+to regard another famous person as a fraud on that account, because
+anyone famous knows how random fame is.But haters are not always complete losers. They are not always the
+proverbial guy living in his mom's basement. Many are, but some
+have some amount of talent. In fact I suspect that a sense of
+frustrated talent is what drives some people to become haters.
+They're not just saying "It's unfair that so-and-so is famous," but
+"It's unfair that so-and-so is famous, and not me."Could a hater be cured if they achieved something impressive? My
+guess is that's a moot point, because they 
+never will. I've been
+able to observe for long enough that I'm fairly confident the pattern
+works both ways: not only do people who do great work never become
+haters, haters never do great work. Although I dislike the word
+"fanboy," it's evocative of something important about both haters
+and fanboys. It implies that the fanboy is so slavishly predictable in his admiration
+that he's diminished as a result, that he's less than a man.Haters seem even more diminished. I can imagine being a fanboy.
+I can think of people whose work I admire so much that I could abase
+myself before them out of sheer gratitude. If P. G.  Wodehouse were
+still alive, I could see myself being a Wodehouse fanboy. But I
+could not imagine being a hater.Knowing that haters are just fanboys with the sign bit flipped makes
+it much easier to deal with them. We don't need a separate theory
+of haters. We can just use existing techniques for dealing with
+obsessive fans.The most important of which is simply not to think much about them.
+If you're like most people who become famous enough to acquire
+haters, your initial reaction will be one of mystification. Why
+does this guy seem to have it in for me? Where does his obsessive
+energy come from, and what makes him so appallingly nasty? What did
+I do to set him off? Is it something I can fix?The mistake here is to think of the hater as someone you have a
+dispute with. When you have a dispute with someone, it's usually a
+good idea to try to understand why they're upset and then fix things
+if you can. Disputes are distracting. But it's a false analogy to
+think of a hater as someone you have a dispute with.  It's an
+understandable mistake, if you've never encountered haters before.
+But when you realize that you're dealing with a hater, and what a
+hater is, it's clear that it's a waste of time even to think about
+them. If you have obsessive fans, do you spend any time wondering
+what makes them love you so much? No, you just think "some
+people are kind of crazy," and that's the end of it.Since haters are equivalent to fanboys, that's the way to deal with
+them too. There may have been something that set them off. But it's
+not something that would have set off a normal person, so there's
+no reason to spend any time thinking about it. It's not you, it's
+them.Notes[1] There are of course some people who are genuine frauds. How can
+you distinguish between x calling y a fraud because x is a hater,
+and because y is a fraud? Look at neutral opinion. Actual frauds
+are usually pretty conspicuous. Thoughtful people are rarely taken
+in by them. So if there are some thoughtful people who like y, you
+can usually assume y is not a fraud.[2] I would make an exception for teenagers, who sometimes act in
+such extreme ways that they are literally not themselves. I can
+imagine a teenage kid being a hater and then growing out of it. But
+not anyone over 25.[3] I have a much worse memory for misdeeds than my wife Jessica,
+who is a connoisseur of character, but I don't wish it were better.
+Most disputes are a waste of time even if you're in the right, and
+it's easy to bury the hatchet with someone if you can't remember
+why you were mad at them.[4] A competent hater will not merely attack you individually but
+will try to get mobs after you. In some cases you may want to refute
+whatever bogus claim they made in order to do so. But err on the
+side of not, because ultimately it probably won't matter.Thanks to Austen Allred, Trevor Blackwell, Patrick Collison,
+Christine Ford, Daniel Gackle, Jessica Livingston, Robert Morris, 
+Elon Musk, Harj Taggar, and Peter Thiel for reading drafts of this.Japanese TranslationArabic TranslationPolish Translation
+
+ ---- NEW ESSAY ---- 
+
+NA
+
+ ---- NEW ESSAY ---- 
+
+NA
+
+ ---- NEW ESSAY ---- 
+
+NA
+
+ ---- NEW ESSAY ---- 
+
+NA
+
+ ---- NEW ESSAY ---- 
+
+November 2019If you discover something new, there's a significant chance you'll be
+accused of some form of heresy.To discover new things, you have
+to work on ideas that are good but non-obvious; if an idea is
+obviously good, other people are probably already working on it.
+One common way for a good idea to be non-obvious is for it to be hidden in the
+shadow of some mistaken assumption that people are very attached to.
+But anything you discover from working on such an idea will tend to
+contradict the mistaken assumption that was concealing it.  And you
+will thus get a lot of heat from people attached to the mistaken
+assumption. Galileo and Darwin are famous examples of this phenomenon,
+but it's probably always an ingredient in the resistance to new
+ideas.So it's particularly dangerous for an organization or society to
+have a culture of pouncing on heresy.  When you suppress heresies,
+you don't just prevent people from contradicting the mistaken
+assumption you're trying to protect. You also suppress any idea
+that implies indirectly that it's false.
+Every cherished mistaken assumption has
+a dead zone of unexplored ideas around it.  And the more preposterous
+the assumption, the bigger the dead zone it creates.There is a positive side to this phenomenon though.  If you're
+looking for new ideas, one way to find them is by looking for
+heresies.  When you look at the question this way, the depressingly
+large dead zones around mistaken assumptions become excitingly large
+mines of new ideas.Japanese TranslationRussian TranslationSimplified Chinese Translation
+
+ ---- NEW ESSAY ---- 
+
+NA
+
+ ---- NEW ESSAY ---- 
+
+September 2017The most valuable insights are both general and surprising. 
+F = ma for example. But general and surprising is a hard
+combination to achieve. That territory tends to be picked
+clean, precisely because those insights are so valuable.Ordinarily, the best that people can do is one without the
+other: either surprising without being general (e.g.
+gossip), or general without being surprising (e.g.
+platitudes).Where things get interesting is the moderately valuable
+insights.  You get those from small additions of whichever
+quality was missing.  The more common case is a small
+addition of generality: a piece of gossip that's more than
+just gossip, because it teaches something interesting about
+the world. But another less common approach is to focus on
+the most general ideas and see if you can find something new
+to say about them. Because these start out so general, you
+only need a small delta of novelty to produce a useful
+insight.A small delta of novelty is all you'll be able to get most
+of the time. Which means if you take this route, your ideas
+will seem a lot like ones that already exist. Sometimes
+you'll find you've merely rediscovered an idea that did
+already exist.  But don't be discouraged.  Remember the huge
+multiplier that kicks in when you do manage to think of
+something even a little new.Corollary: the more general the ideas you're talking about,
+the less you should worry about repeating yourself.  If you
+write enough, it's inevitable you will.  Your brain is much
+the same from year to year and so are the stimuli that hit
+it. I feel slightly bad when I find I've said something
+close to what I've said before, as if I were plagiarizing
+myself. But rationally one shouldn't.  You won't say
+something exactly the same way the second time, and that
+variation increases the chance you'll get that tiny but
+critical delta of novelty.And of course, ideas beget ideas.  (That sounds 
+familiar.)
+An idea with a small amount of novelty could lead to one
+with more. But only if you keep going. So it's doubly
+important not to let yourself be discouraged by people who
+say there's not much new about something you've discovered.
+"Not much new" is a real achievement when you're talking
+about the most general ideas. It's not true that there's nothing new under the sun.  There
+are some domains where there's almost nothing new.  But
+there's a big difference between nothing and almost nothing,
+when it's multiplied by the area under the sun.Thanks to Sam Altman, Patrick Collison, and Jessica
+Livingston for reading drafts of this.Japanese Translation
+
+ ---- NEW ESSAY ---- 
+
+January 2017People who are powerful but uncharismatic will tend to be disliked.
+Their power makes them a target for criticism that they don't have
+the charisma to disarm. That was Hillary Clinton's problem. It also
+tends to be a problem for any CEO who is more of a builder than a
+schmoozer. And yet the builder-type CEO is (like Hillary) probably
+the best person for the job.I don't think there is any solution to this problem. It's human
+nature. The best we can do is to recognize that it's happening, and
+to understand that being a magnet for criticism is sometimes a sign
+not that someone is the wrong person for a job, but that they're
+the right one.

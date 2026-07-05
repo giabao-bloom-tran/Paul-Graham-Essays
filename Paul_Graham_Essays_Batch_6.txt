@@ -1,0 +1,2543 @@
+July 2009The Segway hasn't delivered on its initial promise, to put it mildly.
+There are several reasons why, but one is that people don't want
+to be seen riding them. Someone riding a Segway looks like a dork.My friend Trevor Blackwell built 
+his own Segway, 
+which we called
+the Segwell. He also built a one-wheeled version, 
+the Eunicycle,
+which looks exactly like a regular unicycle till you realize the
+rider isn't pedaling.  He has ridden them both to downtown Mountain
+View to get coffee.  When he rides the Eunicycle, people smile at
+him.  But when he rides the Segwell, they shout abuse from their
+cars: "Too lazy to walk, ya fuckin homo?"Why do Segways provoke this reaction?  The reason you look like a
+dork riding a Segway is that you look smug.  You don't seem to
+be working hard enough.Someone riding a motorcycle isn't working any harder. But because
+he's sitting astride it, he seems to be making an effort.  When
+you're riding a Segway you're just standing there.  And someone who's
+being whisked along while seeming to do no work — someone in a sedan
+chair, for example — can't help but look smug.Try this thought experiment and it becomes clear: imagine something
+that worked like the Segway, but that you rode with one foot in
+front of the other, like a skateboard.  That wouldn't seem nearly
+as uncool.So there may be a way to capture more of the market Segway hoped
+to reach: make a version that doesn't look so easy for the rider.
+It would also be helpful if the styling was in the tradition of
+skateboards or bicycles rather than medical devices.Curiously enough, what got Segway into this problem was that the
+company was itself a kind of Segway.  It was too easy for them;
+they were too successful raising money.  If they'd had to grow the
+company gradually, by iterating through several versions they sold
+to real users, they'd have learned pretty quickly that people looked
+stupid riding them. Instead they had enough to work in secret.  They
+had focus groups aplenty, I'm sure, but they didn't have the people
+yelling insults out of cars.  So they never realized they were
+zooming confidently down a blind alley.
+
+ ---- NEW ESSAY ---- 
+
+Want to start a startup?  Get funded by
+Y Combinator.
+
+
+July 2009Now that the term "ramen profitable" has become widespread, I ought
+to explain precisely what the idea entails.Ramen profitable means a startup makes just enough to pay the
+founders' living expenses.  This is a different form of profitability
+than startups have traditionally aimed for.  Traditional profitability
+means a big bet is finally paying off, whereas the main importance
+of ramen profitability is that it buys you time.
+[1]In the past, a startup would usually become profitable only
+after raising and spending quite a lot of money.  A company making
+computer hardware might not become profitable for 5 years, during
+which they spent $50 million.  But when they did
+they might have revenues of $50 million a year.   This kind of
+profitability means the startup has succeeded.Ramen profitability is the other extreme: a startup that becomes
+profitable after 2 months, even though its revenues are only $3000
+a month, because the only employees are a couple 25 year old founders
+who can live on practically nothing.  Revenues of $3000 a month do
+not mean the company has succeeded.
+But it does share something with the one
+that's profitable in the traditional way: they don't need to raise
+money to survive.Ramen profitability is an unfamiliar idea to most people because
+it only recently became feasible.  It's still not feasible for a
+lot of startups; it would not be for most biotech startups, for
+example; but it is for many software startups because they're now
+so cheap.  For many, the only real cost is the founders'
+living expenses.The main significance of this type of profitability is that you're
+no longer at the mercy of investors.  If you're still losing money,
+then eventually you'll either have to raise more
+or shut down.  Once you're
+ramen profitable this painful choice goes away.
+You can still raise money, but you don't have to do it now.* * *The most obvious advantage of not needing money is that
+you can get better terms.  If investors know you need money, they'll
+sometimes take advantage of you.  Some may even deliberately
+stall, because they know that as you run out of money you'll become
+increasingly pliable.But there are also three less obvious advantages of ramen profitability.
+One is that it makes you more attractive to investors.  If you're
+already profitable, on however small a scale, it shows that (a) you
+can get at least someone to pay you, (b) you're serious about
+building things people want, and (c) you're disciplined enough to
+keep expenses low.This is reassuring to investors, because you've addressed three of
+their biggest worries.  It's common for them to fund companies that
+have smart founders and a big market, and yet still fail.  When
+these companies fail, it's usually because (a) people wouldn't pay
+for what they made, e.g. because it was too hard to sell to them,
+or the market wasn't ready yet, (b) the founders solved the wrong
+problem, instead of paying attention to what users needed, or (c)
+the company spent too much and burned through their funding before
+they started to make money.  If you're ramen profitable, you're
+already avoiding these mistakes.Another advantage of ramen profitability is that it's good for
+morale.  A company
+tends to feel rather theoretical when you first start it.  It's
+legally a company, but you feel like you're lying when you call it
+one.  When people start to pay you significant amounts, the company
+starts to feel real.  And your own living expenses are the milestone
+you feel most, because at that point the future flips state.  Now
+survival is the default, instead of dying.A morale boost on that scale is very valuable in a startup, because
+the moral weight of running a startup is what makes it hard.  Startups
+are still very rare.  Why don't more people do it?  The financial
+risk?  Plenty of 25 year olds save nothing anyway.  The long hours?
+Plenty of people work just as long hours in regular jobs. What keeps
+people from starting startups is the fear of having so much
+responsibility.  And this is not an irrational fear: it really is
+hard to bear.  Anything that takes some of that weight off you will 
+greatly increase your chances of surviving.A startup that reaches ramen profitability may be more likely
+to succeed than not.  Which is pretty exciting, considering the
+bimodal distribution of outcomes in startups: you either fail or
+make a lot of money.The fourth advantage of ramen profitability is the least obvious
+but may be the most important.  If you don't need to raise money,
+you don't have to interrupt working on the company to do it.Raising money is terribly distracting.  
+You're lucky if your
+productivity is a third of what it was before.  And it can last for
+months.I didn't understand (or rather, remember) precisely why raising
+money was so distracting till earlier this year.  I'd noticed that
+startups we funded would usually grind to a halt when they switched
+to raising money, but I didn't remember exactly why till YC raised
+money itself.  We had a comparatively easy time of it; the first
+people I asked said yes; but it took months to work out the
+details, and during that time I got hardly any real work done.  Why?
+Because I thought about it all the time.At any given time there tends to be one problem that's the most
+urgent for a startup.  This is what you think about as you fall
+asleep at night and when you take a shower in the morning.  And
+when you start raising money, that becomes the problem you think
+about.  You only take one shower in the morning, and if you're
+thinking about investors during it, then you're not thinking about
+the product.Whereas if you can choose when you raise money, you can pick a time
+when you're not in the middle of something else, and you can probably
+also insist that the round close fast.  You may even be able to
+avoid having the round occupy your thoughts, if you don't care
+whether it closes.* * *Ramen profitable means no more than the definition implies.  It
+does not, for example, imply that you're "bootstrapping" the
+startup—that you're never going to take money from investors.
+Empirically that doesn't seem to work very well.  Few startups
+succeed without taking investment.  Maybe as startups get cheaper
+it will become more common.  On the other hand, the money is there,
+waiting to be invested.  If startups need it less, they'll be able
+to get it on better terms, which will make them more inclined to
+take it.  That will tend to produce an equilibrium.
+[2]Another thing ramen profitability doesn't imply is Joe Kraus's idea
+that you should put your 
+business model in beta when you put your
+product in beta.  He believes you should get
+people to pay you from the beginning.  I think that's too constraining.
+Facebook didn't, and they've done better than most startups.  Making
+money right away was not only unnecessary for them, but probably
+would have been harmful.  I do think Joe's rule could be useful for
+many startups, though.  When founders seem unfocused, I sometimes
+suggest they try to get customers to pay them for something, in the
+hope that this constraint will prod them into action.The difference between Joe's idea and ramen profitability is that
+a ramen profitable company doesn't have to be making money the way
+it ultimately will.  It just has to be making money.  The most
+famous example is Google, which initially made money by licensing
+search to sites like Yahoo.Is there a downside to ramen profitability?  Probably the biggest
+danger is that it might turn you into a consulting firm.  Startups
+have to be product companies, in the sense of making a single thing
+that everyone uses.  The defining quality of startups is that they
+grow fast, and consulting just can't scale the way a product can.
+[3]
+But it's pretty easy to make $3000 a month consulting; in
+fact, that would be a low rate for contract programming.  So there
+could be a temptation to slide into consulting, and telling
+yourselves you're a ramen profitable startup, when in fact
+you're not a startup at all.It's ok to do a little consulting-type work at first.  Startups
+usually have to do something weird at first.  But remember
+that ramen profitability is not the destination.  A startup's
+destination is to grow really big; ramen profitability is a trick
+for not dying en route.Notes[1]
+The "ramen" in "ramen profitable" refers to instant ramen,
+which is just about the cheapest food available.Please do not take the term literally.  Living on instant ramen
+would be very unhealthy.  Rice and beans are a better source of
+food.  Start by investing in a rice cooker, if you don't have one.Rice and Beans for 2n
+
+  olive oil or butter
+  n yellow onions
+  other fresh vegetables; experiment
+  3n cloves garlic
+  n 12-oz cans white, kidney, or black beans
+  n cubes Knorr beef or vegetable bouillon
+  n teaspoons freshly ground black pepper
+  3n teaspoons ground cumin
+  n cups dry rice, preferably brown
+
+Put rice in rice cooker. Add water as specified on rice package.
+(Default: 2 cups water per cup of rice.) Turn on rice cooker and
+forget about it.Chop onions and other vegetables and fry in oil, over fairly low
+heat, till onions are glassy. Put in chopped garlic, pepper, cumin,
+and a little more fat, and stir.  Keep heat low. Cook another 2 or
+3 minutes, then add beans (don't drain the beans), and stir. Throw
+in the bouillon cube(s), cover, and cook on lowish heat for at least
+10 minutes more. Stir vigilantly to avoid sticking.If you want to save money, buy beans in giant cans from discount
+stores.  Spices are also much cheaper when bought in bulk.
+If there's an Indian grocery store near you, they'll have big 
+bags of cumin for the same price as the little jars in supermarkets.[2]
+There's a good chance that a shift in power from investors
+to founders would actually increase the size of the venture business.
+I think investors currently err too far on the side of being harsh
+to founders.  If they were forced to stop, the whole venture business
+would work better, and you might see something like the increase
+in trade you always see when restrictive laws are removed.Investors
+are one of the biggest sources of pain for founders; if they stopped
+causing so much pain, it would be better to be a founder; and if
+it were better to be a founder, more people would do it.[3]
+It's conceivable that a startup could grow big by transforming
+consulting into a form that would scale.  But if they did that
+they'd really be a product company.Thanks to Jessica Livingston for reading drafts of this.Japanese Translation
+
+ ---- NEW ESSAY ---- 
+
+NA
+
+ ---- NEW ESSAY ---- 
+
+April 2009Recently I realized I'd been holding two ideas in my head that would explode if combined.The first is that startups may represent a new economic phase, on the scale of the Industrial Revolution. I'm not sure of this, but there seems a decent chance it's true.  People are dramatically more 
+productive as founders or early employees of startups—imagine how much less Larry and Sergey would have achieved if they'd gone to work for a big company—and that scale of improvement can change social customs.The second idea is that startups are a type of business that flourishes in certain places that specialize in it—that Silicon Valley specializes in startups in the same way Los Angeles specializes in movies, or New York in finance. [1]What if both are true?  What if startups are both a new economic phase and also a type of business that only flourishes in certain centers?If so, this revolution is going to be particularly revolutionary. All previous revolutions have spread.  Agriculture, cities, and industrialization all spread widely. If startups end up being like the movie business, with just a handful of centers and one dominant one, that's going to have novel consequences.There are already signs that startups may not spread particularly well.  The spread of startups seems to be proceeding slower than the spread of the Industrial Revolution, despite the fact that communication is so much faster now.Within a few decades of the founding of Boulton & Watt there were steam engines scattered over northern Europe and North America.  Industrialization didn't spread much beyond those regions for a while. It only spread to places where there was a strong middle class—countries where a private citizen could make a fortune without having it confiscated. Otherwise it wasn't worth investing in factories.  But in a country with a strong middle class it was easy for industrial techniques to take root.  An individual mine or factory owner could decide to install a steam engine, and within a few years he could probably find someone local to make him one.  So steam engines spread fast.  And they spread widely, because the locations of mines and factories were determined by features like rivers, harbors, and sources of raw materials. 
+ [2]Startups don't seem to spread so well, partly because they're more a social than a technical phenomenon, and partly because they're not tied to geography.  An individual European manufacturer could import industrial techniques and they'd work fine.  This doesn't seem to work so well with startups: you need a community of expertise, as you do in the movie business.  [3]
+ Plus there aren't the same forces driving startups to spread.  Once railroads or electric power grids were invented, every region had to have them.  An area without railroads or power was a rich potential market.  But this isn't true with startups.  There's no need for a Microsoft of France or Google of Germany.Governments may decide they want to encourage startups locally, but government policy can't call them into being the way a genuine need could.How will this all play out?  If I had to predict now, I'd say that startups will spread, but very slowly, because their spread will be driven not by government policies (which won't work) or by market need (which doesn't exist) but, to the extent that it happens at all, by the same random factors that have caused startup culture to spread thus far.  And such random factors will increasingly be outweighed by the pull of existing startup hubs.Silicon Valley is where it is because William Shockley wanted to move back to Palo Alto, where he grew up, and the experts he lured west to work with him liked it so much they stayed.  Seattle owes much of its position as a tech center to the same cause: Gates and Allen wanted to move home.  Otherwise Albuquerque might have Seattle's place in the rankings.  Boston is a tech center because it's the intellectual capital of the US and probably the world.  And if Battery Ventures hadn't turned down Facebook, Boston would be significantly bigger now on the startup radar screen.But of course it's not a coincidence that Facebook got funded in the Valley and not Boston.  There are more and bolder investors in Silicon Valley than in Boston, and even undergrads know it.Boston's case illustrates the difficulty you'd have establishing a new startup hub this late in the game.  If you wanted to create a startup hub by reproducing the way existing ones happened, the 
+way to do it would be to establish a first-rate research university in a place so nice that rich people wanted to live there.  Then the town would be hospitable to both groups you need: both founders and investors.  That's the combination that yielded Silicon Valley.  But Silicon Valley didn't have Silicon Valley to compete with.  If you tried now to create a startup hub by planting a great university in a nice place, it would have a harder time getting started, because many of the best startups it produced would be sucked away to existing startup hubs.Recently I suggested a potential shortcut: 
+pay startups to move.  Once you had enough good startups in one place, it would create a self-sustaining chain reaction.  Founders would start to move there without being paid, because that was where their peers were, and investors would appear too, because that was where the deals were.In practice I doubt any government would have the balls to try this, or the brains to do it right.  I didn't mean it as a practical suggestion, but more as an exploration of the lower bound of what it would take to create a startup hub deliberately.The most likely scenario is (1) that no government will successfully establish a startup hub, and (2) that the spread of startup culture will thus be driven by the random factors that have driven it so far, but (3) that these factors will be increasingly outweighed by the pull of existing startup hubs.  Result: this revolution, if it is one, will be unusually localized.Notes[1]
+There are two very different types of startup: one kind that evolves naturally, and one kind that's called into being to "commercialize" a scientific discovery.  Most computer/software startups are now the first type, and most pharmaceutical startups the second.  When I talk about startups in this essay, I mean type I startups.  There is no difficulty making type II startups spread: all you have to do is fund medical research labs; commercializing whatever new discoveries the boffins throw off is as straightforward as building a new airport.  Type II startups neither require nor produce startup culture. But that means having type II startups won't get you type I startups.  Philadelphia is a case in point: lots of type II startups, but hardly any type I.Incidentally, Google may appear to be an instance of a type II startup, but it wasn't.  Google is not pagerank commercialized.  They could have used another algorithm and everything would have turned out the same.  What made Google Google is that they cared about doing search well at a critical point in the evolution of the web.[2]
+ Watt didn't invent the steam engine.  His critical invention was a refinement that made steam engines dramatically more efficient: the separate condenser.  But that oversimplifies his role.  He had such a different attitude to the problem and approached it with such energy that he transformed the field.  Perhaps the most accurate way to put it would be to say that Watt reinvented the steam engine.[3]
+The biggest counterexample here is Skype.  If you're doing
+something that would get shut down in the US, it becomes an 
+advantage to be located elsewhere.  That's why Kazaa took
+the place of Napster.  And the expertise and connections the 
+founders gained from running Kazaa helped ensure the success
+of Skype.Thanks to Patrick Collison, Jessica Livingston, and Fred Wilson for reading drafts of this.
+
+ ---- NEW ESSAY ---- 
+
+April 2009Om Malik is the most recent of many people
+to ask why Twitter is such a big deal.The reason is that it's a new messaging 
+protocol, where you don't specify the recipients.
+New protocols are rare.  Or more precisely, new
+protocols that take off are.
+There are only a handful of commonly used ones: TCP/IP 
+(the Internet), SMTP (email), HTTP (the web), and so on.  So any
+new protocol is a big deal.  But Twitter is a protocol owned
+by a private company.  That's even rarer.Curiously, the fact that the founders of Twitter 
+have been slow to monetize it may in the long run
+prove to be an advantage.  Because they haven't tried
+to control it too much, Twitter feels to everyone like
+previous protocols.  One forgets it's owned by a
+private company.  That must have made it easier for
+Twitter to spread.
+
+ ---- NEW ESSAY ---- 
+
+April 2009I usually avoid politics, but since we now seem to have an administration that's open to suggestions, I'm going to risk making one.  The single biggest thing the government could do to increase the number of startups in this country is a policy that would cost nothing: establish a new class of visa for startup founders.The biggest constraint on the number of new startups that get created in the US is not tax policy or employment law or even Sarbanes-Oxley.  It's that we won't let the people who want to start them into the country.Letting just 10,000 startup founders into the country each year could have a visible effect on the economy.  If we assume 4 people per startup, which is probably an overestimate, that's 2500 new companies.  Each year.  They wouldn't all grow as big as Google, but out of 2500 some would come close.By definition these 10,000 founders wouldn't be taking jobs from Americans: it could be part of the terms of the visa that they couldn't work for existing companies, only new ones they'd founded.  In fact they'd cause there to be 
+more jobs for Americans, because the companies they started would hire more employees as they grew.The tricky part might seem to be how one defined a startup. But that could be solved quite easily: let the market decide.  Startup investors work hard to find the best startups.  The government could not do better than to piggyback on their expertise, and use investment by recognized startup investors as the test of whether a company was a real startup.How would the government decide who's a startup investor?  The same way they decide what counts as a university for student visas. We'll establish our own accreditation procedure. We know who one another are.10,000 people is a drop in the bucket by immigration standards, but would represent a huge increase in the pool of startup founders.  I think this would have such a visible effect on the economy that it would make the legislator who introduced the bill famous.  The only way to know for sure would be to try it, and that would cost practically nothing.Thanks to Trevor Blackwell, Paul Buchheit, Jeff Clavier, David Hornik, Jessica Livingston, Greg Mcadoo, Aydin Senkut, and Fred Wilson for reading drafts of this.Related:The United States of Entrepreneurs About Half of VC-Backed Company Founders are Immigrants
+
+ ---- NEW ESSAY ---- 
+
+April 2009Inc recently asked me who I thought were the 5 most
+interesting startup founders of the last 30 years.  How do
+you decide who's the most interesting?  The best test seemed
+to be influence: who are the 5
+who've influenced me most?  Who do I use as examples when I'm
+talking to companies we fund?  Who do I find myself quoting?1. Steve JobsI'd guess Steve is the most influential founder not just for me but
+for most people you could ask.  A lot of startup culture is Apple
+culture.  He was the original young founder.  And while the concept
+of "insanely great" already existed in the arts, it was a novel
+idea to introduce into a company in the 1980s.More remarkable still, he's stayed interesting for 30 years.  People
+await new Apple products the way they'd await new books by a popular
+novelist.  Steve may not literally design them, but they wouldn't
+happen if he weren't CEO.Steve is clever and driven, but so are a lot of people in the Valley.
+What makes him unique is his 
+sense of 
+design.  Before him, most
+companies treated design as a frivolous extra.  Apple's competitors
+now know better.2. TJ RodgersTJ Rodgers isn't as famous as Steve Jobs, but he may be the best
+writer among Silicon Valley CEOs.  I've probably learned more from
+him about the startup way of thinking than from anyone else.  Not
+so much from specific things he's written as by reconstructing the
+mind that produced them: brutally candid; aggressively garbage-collecting
+outdated ideas; and yet driven by pragmatism rather than ideology.The first essay of his that I read was so electrifying that I
+remember exactly where I was at the time.  It was 
+High
+Technology Innovation: Free Markets or Government Subsidies? and
+I was downstairs in the Harvard Square T Station.  It felt as if
+someone had flipped on a light switch inside my head.3. Larry & SergeyI'm sorry to treat Larry and Sergey as one person.  I've always
+thought that was unfair to them.  But it does seem as if Google was a
+collaboration.Before Google, companies in Silicon Valley already knew it was
+important to have the best hackers.  So they claimed, at least.
+But Google pushed this idea further than anyone had before.  Their
+hypothesis seems to have been that, in the initial stages at least,
+all you need is good hackers: if you hire all the smartest people
+and put them to work on a problem where their success can be measured,
+you win.  All the other stuff—which includes all the stuff that
+business schools think business consists of—you can figure out
+along the way.  The results won't be perfect, but they'll be optimal.
+If this was their hypothesis, it's now been verified experimentally.4. Paul BuchheitFew know this, but one person, Paul Buchheit, is responsible for
+three of the best things Google has done.  He was the original
+author of GMail, which is the most impressive thing Google has after
+search.  He also wrote the first prototype of AdSense, and was the
+author of Google's mantra "Don't be evil."PB made a point in a talk once that I now mention to every startup
+we fund: that it's better, initially, to make a small number of
+users really love you than a large number kind of like you.   If I
+could tell startups only 
+ten sentences, 
+this would be one of them.Now he's cofounder of a startup called Friendfeed.  It's only a
+year old, but already everyone in the Valley is watching them.
+Someone responsible for three of the biggest ideas at Google is
+going to come up with more.5. Sam AltmanI was told I shouldn't mention founders of YC-funded companies in
+this list.   But Sam Altman can't be stopped by such flimsy rules.
+If he wants to be on this list, he's going to be.Honestly, Sam is, along with Steve Jobs, the founder I refer to
+most when I'm advising startups.  On questions of design, I ask
+"What would Steve do?" but on questions of strategy or ambition I
+ask "What would Sama do?"What I learned from meeting Sama is that the doctrine of the elect
+applies to startups.  It applies way less than most people think:
+startup investing does not consist of trying to pick winners the
+way you might in a horse race.  But there are a few people with
+such force of will that they're going to get whatever they want.
+
+ ---- NEW ESSAY ---- 
+
+Want to start a startup?  Get funded by
+Y Combinator.
+
+
+March 2009A couple days ago I finally got being a good startup founder down
+to two words:  relentlessly resourceful.Till then the best I'd managed was to get the opposite quality down
+to one: hapless.  Most dictionaries say hapless means unlucky.  But
+the dictionaries are not doing a very good job.  A team that outplays
+its opponents but loses because of a bad decision by the referee
+could be called unlucky, but not hapless.  Hapless implies passivity.
+To be hapless is to be battered by circumstances — to let the world
+have its way with you, instead of having your way with the world.
+
+[1]Unfortunately there's no antonym of hapless, which makes it difficult
+to tell founders what to aim for.  "Don't be hapless" is not much
+of a rallying cry.It's not hard to express the quality we're looking for in metaphors.
+The best is probably a running back.  A good running back is not
+merely determined, but flexible as well.  They want to get downfield,
+but they adapt their plans on the fly.Unfortunately this is just a metaphor, and not a useful one to most
+people outside the US.   "Be like a running back" is no better than
+"Don't be hapless."But finally I've figured out how to express this quality directly.
+I was writing a talk for 
+investors, and I had to explain what to
+look for in founders.  What would someone who was the opposite of
+hapless be like?  They'd be relentlessly resourceful.  Not merely
+relentless.  That's not enough to make things go your way except
+in a few mostly uninteresting domains.  In any interesting domain,
+the difficulties will be novel.  Which means you can't simply plow
+through them, because you don't know initially how hard they are;
+you don't know whether you're about to plow through a block of foam
+or granite.  So you have to be resourceful. You have to keep
+trying new things.Be relentlessly resourceful.That sounds right, but is it simply a description
+of how to be successful in general?  I don't think so.  This isn't
+the recipe for success in writing or painting, for example.  In
+that kind of work the recipe is more to be actively curious.
+Resourceful implies the obstacles are external, which they generally
+are in startups. But in writing and painting they're mostly internal;
+the obstacle is your own obtuseness.
+[2]There probably are other fields where "relentlessly resourceful"
+is the recipe for success.  But though other fields may share it,
+I think this is the best short description we'll find of what makes
+a good startup founder.  I doubt it could be made more precise.Now that we know what we're looking for, that leads to other
+questions.  For example, can this quality be taught?  After four
+years of trying to teach it to people, I'd say that yes, surprisingly
+often it can.  Not to everyone, but to many people. 
+[3]
+Some
+people are just constitutionally passive, but others have a latent
+ability to be relentlessly resourceful that only needs to be brought
+out.This is particularly true of young people who have till now always
+been under the thumb of some kind of authority.  Being relentlessly
+resourceful is definitely not the recipe for success in big companies,
+or in most schools.  I don't even want to think what the recipe is
+in big companies, but it is certainly longer and messier, involving
+some combination of resourcefulness, obedience, and building
+alliances.Identifying this quality also brings us closer to answering a
+question people often wonder about: how many startups there could
+be.  There is not, as some people seem to think, any economic upper
+bound on this number.  There's no reason to believe there is any
+limit on the amount of newly created wealth consumers can absorb,
+any more than there is a limit on the number of theorems that can
+be proven.  So probably the limiting factor on the number of startups
+is the pool of potential founders.  Some people would make good
+founders, and others wouldn't.  And now that we can say what makes
+a good founder, we know how to put an upper bound on the size of
+the pool.This test is also useful to individuals.  If you want to know whether
+you're the right sort of person to start a startup, ask yourself
+whether you're relentlessly resourceful.  And if you want to know
+whether to recruit someone as a cofounder, ask if they are.You can even use it tactically.  If I were running a startup, this
+would be the phrase I'd tape to the mirror.  "Make something people
+want" is the destination, but "Be relentlessly resourceful" is how
+you get there.Notes[1]
+I think the reason the dictionaries are wrong is that the
+meaning of the word has shifted.  No one writing a dictionary from
+scratch today would say that hapless meant unlucky.  But a couple
+hundred years ago they might have.  People were more at the mercy
+of circumstances in the past, and as a result a lot of the words
+we use for good and bad outcomes have origins in words about luck.When I was living in Italy, I was once trying to tell someone
+that I hadn't had much success in doing something, but I couldn't
+think of the Italian word for success.  I spent some time trying
+to describe the word I meant.  Finally she said "Ah! Fortuna!"[2]
+There are aspects of startups where the recipe is to be
+actively curious.  There can be times when what you're doing is
+almost pure discovery.  Unfortunately these times are a small
+proportion of the whole.  On the other hand, they are in research
+too.[3]
+I'd almost say to most people, but I realize (a) I have no
+idea what most people are like, and (b) I'm pathologically optimistic
+about people's ability to change.Thanks to Trevor Blackwell and Jessica Livingston for reading drafts
+of this.
+
+ ---- NEW ESSAY ---- 
+
+March 2009(This essay is derived from a talk at AngelConf.)When we sold our startup in 1998 I thought one day I'd do some angel
+investing.  Seven years later I still hadn't started.  I put it off
+because it seemed mysterious and complicated.   It turns out to be 
+easier than I expected, and also more interesting.The part I thought was hard, the mechanics of investing, really
+isn't. You give a startup money and they give you stock.  You'll
+probably get either preferred stock, which means stock with extra
+rights like getting your money back first in a sale, or convertible
+debt, which means (on paper) you're lending the company money, and
+the debt converts to stock at the next sufficiently big funding
+round. 
+[1]There are sometimes minor tactical advantages to using one or the
+other.  The paperwork for convertible debt is simpler.  But really
+it doesn't matter much which you use.  Don't spend much time worrying
+about the details of deal terms, especially when you first start
+angel investing.  That's not how you win at this game.  When you
+hear people talking about a successful angel investor, they're not
+saying "He got a 4x liquidation preference." They're saying "He
+invested in Google."That's how you win: by investing in the right startups.  That is
+so much more important than anything else that I worry I'm misleading
+you by even talking about other things.MechanicsAngel investors often syndicate deals, which means they join together
+to invest on the same terms.  In a syndicate there is usually a
+"lead" investor who negotiates the terms with the startup.  But not
+always: sometimes the startup cobbles together a syndicate of
+investors who approach them independently, and the startup's lawyer
+supplies the paperwork.The easiest way to get started in angel investing is to find a
+friend who already does it, and try to get included in his syndicates.
+Then all you have to do is write checks.Don't feel like you have to join a syndicate, though.  It's not that
+hard to do it yourself.  You can just use the standard 
+series AA
+documents Wilson Sonsini and Y Combinator published online.
+You should of course have your lawyer review everything.  Both you
+and the startup should have lawyers.  But the lawyers don't have
+to create the agreement from scratch.  
+[2]
+When you negotiate terms with a startup, there are two numbers you
+care about: how much money you're putting in, and the valuation of
+the company.  The valuation determines how much stock you get.  If
+you put $50,000 into a company at a pre-money valuation of $1
+million, then the post-money valuation is $1.05 million, and you
+get .05/1.05, or 4.76% of the company's stock.If the company raises more money later, the new investor will take
+a chunk of the company away from all the existing shareholders just
+as you did.  If in the next round they sell 10% of the company to
+a new investor, your 4.76% will be reduced to 4.28%.That's ok.  Dilution is normal.  What saves you from being mistreated
+in future rounds, usually, is that you're in the same boat as the
+founders.  They can't dilute you without diluting themselves just
+as much.  And they won't dilute themselves unless they end up 
+net ahead.  So in theory, each further 
+round of investment leaves you
+with a smaller share of an even more valuable company, till after
+several more rounds you end up with .5% of the company at the point
+where it IPOs, and you are very happy because your $50,000 has
+become $5 million. 
+[3]The agreement by which you invest should have provisions that 
+let you contribute to
+future rounds to maintain your percentage.  So it's your choice
+whether you get diluted.  
+[4]
+If the company does really well,
+you eventually will, because eventually the valuations will get so
+high it's not worth it for you.How much does an angel invest?  That varies enormously, from $10,000
+to hundreds of thousands or in rare cases even millions.  The upper
+bound is obviously the total amount the founders want to raise.
+The lower bound is 5-10% of the total or $10,000, whichever
+is greater.  A typical angel round these days might be $150,000
+raised from 5 people.Valuations don't vary as much.  For angel rounds it's rare to see
+a valuation lower than half a million or higher than 4 or 5 million.
+4 million is starting to be VC territory.How do you decide what valuation to offer?  If you're part of a
+round led by someone else, that problem is solved for you.  But
+what if you're investing by yourself?  There's no real answer.
+There is no rational way to value an early stage startup.  The
+valuation reflects nothing more than the strength of the company's
+bargaining position.  If they really want you, either because they
+desperately need money, or you're someone who can help them a lot,
+they'll let you invest at a low valuation.  If they don't need you,
+it will be higher.  So guess.  The startup may not have any more
+idea what the number should be than you do. 
+[5]Ultimately it doesn't matter much.  When angels make a lot of money
+from a deal, it's not because they invested at a valuation of $1.5
+million instead of $3 million.  It's because the company was really
+successful.I can't emphasize that too much.  Don't get hung up on mechanics
+or deal terms.  What you should spend your time thinking about is
+whether the company is good.(Similarly, founders also should not get hung up on deal
+terms, but should spend their time thinking about how to make the
+company good.)There's a second less obvious component of an angel investment: how
+much you're expected to help the startup.  Like the amount you
+invest, this can vary a lot.  You don't have to do anything if you
+don't want to; you could simply be a source of money.  Or you can
+become a de facto employee of the company.  Just make sure that you
+and the startup agree in advance about roughly how much you'll do
+for them.Really hot companies sometimes have high standards for angels.  The
+ones everyone wants to invest in practically audition investors,
+and only take money from people who are famous and/or will work
+hard for them.  But don't feel like you have to put in a lot of
+time or you won't get to invest in any good startups.  There is a
+surprising lack of correlation between how hot a deal a startup is
+and how well it ends up doing.  Lots of hot startups will end up
+failing, and lots of startups no one likes will end up succeeding.
+And the latter are so desperate for money that they'll take it from
+anyone at a low valuation. 
+[6]Picking WinnersIt would be nice to be able to pick those out, wouldn't it?  The
+part of angel investing that has most effect on your returns, picking
+the right companies, is also the hardest.  So you should practically
+ignore (or more precisely, archive, in the Gmail sense) everything
+I've told you so far.  You may need to refer to it at some point,
+but it is not the central issue.The central issue is picking the right startups.  What "Make something
+people want" is for startups, "Pick the right startups" is for
+investors.  Combined they yield "Pick the startups that will make
+something people want."How do you do that?  It's not as simple as picking startups that
+are already making something wildly popular.  By then it's
+too late for angels.  VCs will already be onto them.  As an angel,
+you have to pick startups before they've got a hit—either
+because they've made something great but users don't realize it
+yet, like Google early on, or because they're still an iteration
+or two away from the big hit, like Paypal when they were making
+software for transferring money between PDAs.To be a good angel investor, you have to be a good judge of potential.
+That's what it comes down to.  VCs can be fast followers.  Most of
+them don't try to predict what will win.  They just try to notice
+quickly when something already is winning.  But angels have to be
+able to predict.  
+[7]One interesting consequence of this fact is that there are a lot
+of people out there who have never even made an angel investment
+and yet are already better angel investors than they realize.
+Someone who doesn't know the first thing about the mechanics of
+venture funding but knows what a successful startup founder looks
+like is actually far ahead of someone who knows termsheets inside
+out, but thinks 
+"hacker" means someone who breaks into computers.
+If you can recognize good startup founders by empathizing with
+them—if you both resonate at the same frequency—then
+you may already be a better startup picker than the median professional
+VC.  
+[8]Paul Buchheit, for example, started angel investing about a year
+after me, and he was pretty much immediately as good as me at picking
+startups.  My extra year of experience was rounding error compared
+to our ability to empathize with founders.What makes a good founder?  If there were a word that meant the
+opposite of hapless, that would be the one.  Bad founders seem
+hapless.  They may be smart, or not, but somehow events overwhelm
+them and they get discouraged and give up.  Good founders make
+things happen the way they want.  Which is not to say they force
+things to happen in a predefined way.  Good founders have a healthy
+respect for reality.  But they are relentlessly resourceful.  That's
+the closest I can get to the opposite of hapless.  You want to fund
+people who are relentlessly resourceful.Notice we started out talking about things, and now we're talking
+about people.  There is an ongoing debate between investors which
+is more important, the people, or the idea—or more precisely,
+the market. Some, like Ron Conway, say it's the people—that
+the idea will change, but the people are the foundation of the
+company.  Whereas Marc Andreessen says he'd back ok founders in a
+hot market over great founders in a bad one.  
+[9]These two positions are not so far apart as they seem, because good
+people find good markets.  Bill Gates would probably have ended up
+pretty rich even if IBM hadn't happened to drop the PC standard in
+his lap.I've thought a lot about the disagreement between the investors who
+prefer to bet on people and those who prefer to bet on markets.
+It's kind of surprising that it even exists.  You'd expect opinions
+to have converged more.But I think I've figured out what's going on.  The three most
+prominent people I know who favor markets are Marc, Jawed Karim,
+and Joe Kraus.  And all three of them, in their own startups,
+basically flew into a thermal: they hit a market growing so fast
+that it was all they could do to keep up with it.  That kind of
+experience is hard to ignore.  Plus I think they underestimate
+themselves: they think back to how easy it felt to ride that huge
+thermal upward, and they think "anyone could have done it."  But
+that isn't true; they are not ordinary people.So as an angel investor I think you want to go with Ron Conway and
+bet on people.  Thermals happen, yes, but no one can predict
+them—not even the founders, and certainly not you as an
+investor.  And only good people can ride the thermals if they hit
+them anyway.Deal FlowOf course the question of how to choose startups presumes you
+have startups to choose between.  How do you find them?  This is
+yet another problem that gets solved for you by syndicates.  If you
+tag along on a friend's investments, you don't have to find startups.The problem is not finding startups, exactly, but finding a stream
+of reasonably high quality ones.  The traditional way to do this
+is through contacts.  If you're friends with a lot of investors and
+founders, they'll send deals your way.  The Valley basically runs
+on referrals.  And once you start to become known as reliable,
+useful investor, people will refer lots of deals to you.  I certainly
+will.There's also a newer way to find startups, which is to come to
+events like Y Combinator's Demo Day, where a batch of newly created
+startups presents to investors all at once.   We have two Demo Days
+a year, one in March and one in August.  These are basically mass
+referrals.But events like Demo Day only account for a fraction of matches
+between startups and investors.  The personal referral is still the
+most common route.  So if you want to hear about new startups, the
+best way to do it is to get lots of referrals.The best way to get lots of referrals is to invest in startups.  No
+matter how smart and nice you seem, insiders will be reluctant to
+send you referrals until you've proven yourself by doing a couple
+investments.  Some smart, nice guys turn out to be flaky,
+high-maintenance investors. But once you prove yourself as a good
+investor, the deal flow, as they call it, will increase rapidly in
+both quality and quantity.  At the extreme, for someone like Ron
+Conway, it is basically identical with the deal flow of the whole
+Valley.So if you want to invest seriously, the way to get started is to
+bootstrap yourself off your existing connections, be a good investor
+in the startups you meet that way, and eventually you'll start a
+chain reaction.  Good investors are rare, even in Silicon Valley.
+There probably aren't more than a couple hundred serious angels in the whole
+Valley, and yet they're probably the single most important ingredient
+in making the Valley what it is.  Angels are the limiting reagent
+in startup formation.If there are only a couple hundred serious angels in the Valley, 
+then by deciding to become one you could single-handedly make the pipeline
+for startups in Silicon Valley significantly wider.  That is kind
+of mind-blowing.Being GoodHow do you be a good angel investor?  The first thing you need is
+to be decisive.  When we talk to founders about good and bad
+investors, one of the ways we describe the good ones is to say "he
+writes checks." That doesn't mean the investor says yes to everyone.
+Far from it.  It means he makes up his mind quickly,
+and follows through.  You may be thinking, how hard could that be?
+You'll see when you try it.  It follows from the nature of angel
+investing that the decisions are hard.  You have to guess early,
+at the stage when the most promising ideas still seem counterintuitive,
+because if they were obviously good, VCs would already have funded
+them.Suppose it's 1998.  You come across a startup founded by a couple
+grad students.  They say they're going to work on Internet search.
+There are already a bunch of big public companies doing search.
+How can these grad students possibly compete with them?  And does
+search even matter anyway?  All the search engines are trying to
+get people to start calling them "portals" instead.  Why would you
+want to invest in a startup run by a couple of nobodies who are
+trying to compete with large, aggressive companies in an area they
+themselves have declared passe?  And yet the grad students seem
+pretty smart.  What do you do?There's a hack for being decisive when you're inexperienced: ratchet
+down the size of your investment till it's an amount you wouldn't
+care too much about losing.  For every rich person (you probably
+shouldn't try angel investing unless you think of yourself as rich)
+there's some amount that would be painless, though annoying, to
+lose.  Till you feel comfortable investing, don't invest more than
+that per startup.For example, if you have $5 million in investable assets, it would
+probably be painless (though annoying) to lose $15,000.  That's
+less than .3% of your net worth.  So start by making 3 or 4 $15,000
+investments.  Nothing will teach you about angel investing like
+experience.  Treat the first few as an educational expense.  $60,000
+is less than a lot of graduate programs.  Plus you get equity.What's really uncool is to be strategically indecisive: to string
+founders along while trying to gather more information about the
+startup's trajectory. 
+[10]
+ There's always a temptation to do that,
+because you just have so little to go on, but you have to consciously
+resist it.  In the long term it's to your advantage to be good.The other component of being a good angel investor is simply to be
+a good person.  Angel investing is not a business where you make
+money by screwing people over.  Startups create wealth, and
+creating wealth is not a zero sum game.  No one has to lose for you
+to win.  In fact, if you mistreat the founders you invest in, they'll
+just get demoralized and the company will do worse.  Plus your
+referrals will dry up.  So I recommend being good.The most successful angel investors I know are all basically good
+people.  Once they invest in a company, all they want to do is help
+it.  And they'll help people they haven't invested in too.  When
+they do favors they don't seem to keep track of them.  It's too
+much overhead.  They just try to help everyone, and assume good
+things will flow back to them somehow. Empirically that seems to
+work.Notes[1]
+Convertible debt can be either capped at a particular valuation,
+or can be done at a discount to whatever the valuation turns out
+to be when it converts.  E.g. convertible debt at a discount of 30%
+means when it converts you get stock as if you'd invested at a 30%
+lower valuation.  That can be useful in cases where you can't or
+don't want to figure out what the valuation should be.  You leave
+it to the next investor.  On the other hand, a lot of investors
+want to know exactly what they're getting, so they will only do
+convertible debt with a cap.[2]
+The expensive part of creating an agreement from scratch is
+not writing the agreement, but bickering at several hundred
+dollars an hour over the details.  That's why the series AA paperwork
+aims at a middle ground.  You can just start from the compromise
+you'd have reached after lots of back and forth.When you fund a startup, both your lawyers should be specialists
+in startups.  Do not use ordinary corporate lawyers for this.  Their
+inexperience makes them overbuild: they'll create huge, overcomplicated
+agreements, and spend hours arguing over irrelevant things.In the Valley, the top startup law firms are Wilson Sonsini, Orrick,
+Fenwick & West, Gunderson Dettmer, and Cooley Godward.  In Boston
+the best are Goodwin Procter, Wilmer Hale, and Foley Hoag.[3]
+Your mileage may vary.[4]
+These anti-dilution provisions also protect you against
+tricks like a later investor trying to steal the company by doing
+another round that values the company at $1.  If you have a competent
+startup lawyer handle the deal for you, you should be protected
+against such tricks initially.  But it could become a problem later.
+If a big VC firm wants to invest in the startup after you, they may
+try to make you take out your anti-dilution protections.  And if
+they do the startup will be pressuring you to agree.  They'll tell
+you that if you don't, you're going to kill their deal with the VC.
+I recommend you solve this problem by having a gentlemen's agreement
+with the founders: agree with them in advance that you're not going
+to give up your anti-dilution protections.  Then it's up to them
+to tell VCs early on.The reason you don't want to give them up is the following scenario.
+The VCs recapitalize the company, meaning they give it additional
+funding at a pre-money valuation of zero.  This wipes out the
+existing shareholders, including both you and the founders.  They
+then grant the founders lots of options, because they need them to
+stay around, but you get nothing.Obviously this is not a nice thing to do.  It doesn't happen often.
+Brand-name VCs wouldn't recapitalize a company just to steal a few
+percent from an angel.  But there's a continuum here.  A less
+upstanding, lower-tier VC might be tempted to do it to steal a big
+chunk of stock.I'm not saying you should always absolutely refuse to give up your
+anti-dilution protections.  Everything is a negotiation.  If you're
+part of a powerful syndicate, you might be able to give up legal
+protections and rely on social ones.  If you invest in a deal led
+by a big angel like Ron Conway, for example, you're pretty well
+protected against being mistreated, because any VC would think twice
+before crossing him.  This kind of protection is one of the reasons
+angels like to invest in syndicates.[5]
+Don't invest so much, or at such a low valuation, that you
+end up with an excessively large share of a startup, unless you're
+sure your money will be the last they ever need.  Later stage
+investors won't invest in a company if the founders don't have
+enough equity left to motivate them.  I talked to a VC recently who
+said he'd met with a company he really liked, but he turned
+them down because investors already owned more than half of it.
+Those investors probably thought they'd been pretty clever by getting
+such a large chunk of this desirable company, but in fact they were
+shooting themselves in the foot.[6]
+At any given time I know of at least 3 or 4 YC alumni who I
+believe will be big successes but who are running on vapor,
+financially, because investors don't yet get what they're doing.
+(And no, unfortunately, I can't tell you who they are.  I can't
+refer a startup to an investor I don't know.)[7]
+There are some VCs who can predict instead of reacting.  Not
+surprisingly, these are the most successful ones.[8]
+It's somewhat sneaky of me to put it this way, because the
+median VC loses money.  That's one of the most surprising things
+I've learned about VC while working on Y Combinator.  Only a fraction
+of VCs even have positive returns.  The rest exist to satisfy demand
+among fund managers for venture capital as an asset class.  Learning
+this explained a lot about some of the VCs I encountered when we
+were working on Viaweb.[9]
+VCs also generally say they prefer great markets to great
+people.  But what they're really saying is they want both.  They're
+so selective that they only even consider great people.  So when
+they say they care above all about big markets, they mean that's
+how they choose between great people.[10]
+Founders rightly dislike the sort of investor who says he's
+interested in investing but doesn't want to lead.  There are
+circumstances where this is an acceptable excuse, but more often
+than not what it means is "No, but if you turn out to be a hot deal,
+I want to be able to claim retroactively I said yes."If you like a startup enough to invest in it, then invest in it.
+Just use the standard series 
+AA terms and write them a check.Thanks to Sam Altman, Paul Buchheit, Jessica Livingston,
+Robert Morris, and Fred Wilson for reading drafts of this.Comment on this essay.
+
+ ---- NEW ESSAY ---- 
+
+March 2009About twenty years ago people noticed computers and TV were on a
+collision course and started to speculate about what they'd produce
+when they converged.  We now know the answer: computers.  It's clear
+now that even by using the word "convergence" we were giving TV too
+much credit.  This won't be convergence so much as replacement.
+People may still watch things they call "TV shows," but they'll
+watch them mostly on computers.What decided the contest for computers?  Four forces, three of which
+one could have predicted, and one that would have been harder to.One predictable cause of victory is that the Internet is an open
+platform.  Anyone can build whatever they want on it, and the market
+picks the winners.  So innovation happens at hacker speeds instead
+of big company speeds.The second is Moore's Law, which has worked its usual magic on
+Internet bandwidth. 
+[1]The third reason computers won is piracy. Users prefer it 
+not just because it's free, but because it's
+more convenient.  Bittorrent and YouTube have already trained a new
+generation of viewers that the place to watch shows is on a computer
+screen.
+[2]The somewhat more surprising force was one specific type of innovation:
+social applications.  The average teenage kid has a pretty much
+infinite capacity for talking to their friends.  But they can't
+physically be with them all the time.  When I was in high school
+the solution was the telephone.  Now it's social networks, multiplayer
+games, and various messaging applications.  The way you reach them
+all is through a computer.
+[3]
+Which means every teenage kid (a)
+wants a computer with an Internet connection, (b) has an incentive
+to figure out how to use it, and (c) spends countless hours in front
+of it.This was the most powerful force of all.  This was what made everyone
+want computers.  Nerds got computers because they liked them.  Then
+gamers got them to play games on.  But it was connecting to other
+people that got everyone else: that's what made even grandmas and
+14 year old girls want computers.
+After decades of running an IV drip right into their audience,
+people in the entertainment business had understandably come to
+think of them as rather passive.  They thought they'd be able to
+dictate the way shows reached audiences.  But they underestimated
+the force of their desire to connect with one another.Facebook killed TV.  That is wildly oversimplified, of course, but
+probably as close to the truth as you can get in three words.___The TV networks already seem, grudgingly, to see where things are
+going, and have responded by putting their stuff, grudgingly, online.
+But they're still dragging their heels.  They still seem to wish
+people would watch shows on TV instead, just as newspapers that put
+their stories online still seem to wish people would wait till the
+next morning and read them printed on paper.  They should both just
+face the fact that the Internet is the primary medium.They'd be in a better position if they'd done that earlier.  When
+a new medium arises that's powerful enough to make incumbents
+nervous, then it's probably powerful enough to win, and the best
+thing they can do is jump in immediately.Whether they like it or not, big changes are coming, because the
+Internet dissolves the two cornerstones of broadcast media:
+synchronicity and locality.  On the Internet, you don't have to
+send everyone the same signal, and you don't have to send it to
+them from a local source.  People will watch what they want when
+they want it, and group themselves according to whatever shared
+interest they feel most strongly.  Maybe their strongest shared
+interest will be their physical location, but I'm guessing not.
+Which means local TV is probably dead.  It was an artifact of
+limitations imposed by old technology.  If someone were creating
+an Internet-based TV company from scratch now, they might have some
+plan for shows aimed at specific regions, but it wouldn't be a top
+priority.Synchronicity and locality are tied together.  TV network affiliates
+care what's on at 10 because that delivers viewers for local news
+at 11.  This connection adds more brittleness than strength, however:
+people don't watch what's on at 10 because they want to watch the
+news afterward.TV networks will fight these trends, because they don't have
+sufficient flexibility to adapt to them.  They're hemmed in by local
+affiliates in much the same way car companies are hemmed in by
+dealers and unions.  Inevitably, the people running the networks
+will take the easy route and try to keep the old model running for
+a couple more years, just as the record labels have done.A recent article in the Wall Street Journal described how TV networks
+were trying to add more live shows, partly as a way to make viewers
+watch TV synchronously instead of watching recorded shows when it
+suited them.  Instead of delivering what viewers want, they're
+trying to force them to change their habits to suit the networks'
+obsolete business model.  That never works unless you have a monopoly
+or cartel to enforce it, and even then it only works temporarily.The other reason networks like live shows is that they're cheaper
+to produce.  There they have the right idea, but they haven't
+followed it to its conclusion.   Live content can be way cheaper
+than networks realize, and the way to take advantage of dramatic
+decreases in cost is to 
+increase volume.  The networks are prevented
+from seeing this whole line of reasoning because they still think
+of themselves as being in the broadcast business—as sending one
+signal to everyone.
+[4]___Now would be a good time to start any company that competes with
+TV networks.  That's what a lot of Internet startups are, though
+they may not have had this as an explicit goal.  People only have
+so many leisure hours a day, and TV is premised on such long sessions
+(unlike Google, which prides itself on sending users on their way
+quickly) that anything that takes up their time is competing with
+it.  But in addition to such indirect competitors, I think TV
+companies will increasingly face direct ones.Even in cable TV, the long tail was lopped off prematurely by the
+threshold you had to get over to start a new channel.  It will be
+longer on the Internet, and there will be more mobility within it.
+In this new world, the existing players will only have the advantages
+any big company has in its market.That will change the balance of power between the networks and the
+people who produce shows.  The networks used to be gatekeepers.
+They distributed your work, and sold advertising on it.  Now the
+people who produce a show can distribute it themselves.  The main
+value networks supply now is ad sales.  Which will tend to put them
+in the position of service providers rather than publishers.Shows will change even more.  On the Internet there's no reason to
+keep their current format, or even the fact that they have a single
+format.  Indeed, the more interesting sort of convergence that's
+coming is between shows and games.  But on the question of what
+sort of entertainment gets distributed on the Internet in 20 years,
+I wouldn't dare to make any predictions, except that things will
+change a lot.  We'll get whatever the most imaginative people can
+cook up.  That's why the Internet won.Notes[1]
+Thanks to Trevor Blackwell for this point.  He adds: "I
+remember the eyes of phone companies gleaming in the early 90s when
+they talked about convergence.  They thought most programming would
+be on demand, and they would implement it and make a lot of money.
+It didn't work out. They assumed that their local network infrastructure
+would be critical to do video on-demand, because you couldn't
+possibly stream it from a few data centers over the internet. At
+the time (1992) the entire cross-country Internet bandwidth wasn't
+enough for one video stream. But wide-area bandwidth increased more
+than they expected and they were beaten by iTunes and Hulu."[2]
+Copyright owners tend to focus on the aspect they see of
+piracy, which is the lost revenue.  They therefore think what drives
+users to do it is the desire to get something for free.  But iTunes
+shows that people will pay for stuff online, if you make it easy.
+A significant component of piracy is simply that it offers a better
+user experience.[3]
+Or a phone that is actually a computer.  I'm not making any
+predictions about the size of the device that will replace TV, just
+that it will have a browser and get data via the Internet.[4]
+Emmett Shear writes: "I'd argue the long tail for sports may
+be even larger than the long tail for other kinds of content. Anyone
+can broadcast a high school football game that will be interesting
+to 10,000 people or so, even if the quality of production is not
+so good."Thanks to Sam Altman, Trevor Blackwell, Nancy Cook, Michael Seibel,
+Emmett Shear, and Fred Wilson for reading drafts of this.Japanese Translation
+
+ ---- NEW ESSAY ---- 
+
+February 2009A lot of cities look at Silicon Valley and ask "How could we make
+something like that happen here?"  The 
+organic way to do it is to
+establish a first-rate university in a place where rich people want
+to live. That's how Silicon Valley happened.  But could you shortcut
+the process by funding startups?Possibly. Let's consider what it would take.The first thing to understand is that encouraging startups is a
+different problem from encouraging startups in a particular city.
+The latter is much more expensive.People sometimes think they could improve the startup scene in their
+town by starting something like Y 
+Combinator there, but in fact it
+will have near zero effect.  I know because Y Combinator itself had
+near zero effect on Boston when we were based there half the year.
+The people we funded came from all over the country (indeed, the
+world) and afterward they went wherever they could get more
+funding—which generally meant Silicon Valley.The seed funding business is not a regional business, because at
+that stage startups are mobile. They're just a couple founders with
+laptops. 
+[1]If you want to encourage startups in a particular city, you have
+to fund startups that won't leave.  There are two ways to do that:
+have rules preventing them from leaving, or fund them at the point
+in their life when they naturally take root.  The first approach
+is a mistake, because it becomes a filter for selecting bad startups.
+If your terms force startups to do things they don't want to, only
+the desperate ones will take your money.Good startups will move to another city as a condition of funding.
+What they won't do is agree not to move the next time they need
+funding.  So the only way to get them to stay is to give them enough
+that they never need to leave.___How much would that take?  If you want to keep startups from leaving
+your town, you have to give them enough that they're not tempted
+by an offer from Silicon Valley VCs that requires them to move.  A
+startup would be able to refuse such an offer if they had grown to
+the point where they were (a) rooted in your town and/or (b) so
+successful that VCs would fund them even if they didn't move.How much would it cost to grow a startup to that point? A minimum
+of several hundred thousand dollars.  Wufoo 
+seem to have rooted
+themselves in Tampa on $118k, but they're an extreme case.  On
+average it would take at least half a million.So if it seems too good to be true to think you could grow a local
+silicon valley by giving startups $15-20k each like Y Combinator,
+that's because it is.  To make them stick around you'd have to give
+them at least 20 times that much.However, even that is an interesting prospect.  Suppose to be on
+the safe side it would cost a million dollars per startup. If you
+could get startups to stick to your town for a million apiece, then
+for a billion dollars you could bring in a thousand startups. That probably wouldn't push you past Silicon Valley itself, 
+but it might get you second place.For the price of a football stadium, any town that was decent to
+live in could make itself one of the biggest startup hubs in the
+world.What's more, it wouldn't take very long.   You could probably do
+it in five years.  During the term of one mayor. And it would get
+easier over time, because the more startups you had in town, the
+less it would take to get new ones to move there. By the time you
+had a thousand startups in town, the VCs wouldn't be trying so hard
+to get them to move to Silicon Valley; instead they'd be opening
+local offices.  Then you'd really be in good shape.  You'd have
+started a self-sustaining chain reaction like the one that drives
+the Valley.___But now comes the hard part.  You have to pick the startups.  How
+do you do that?  Picking startups is a rare and valuable skill, and
+the handful of people who have it are not readily hireable.  And
+this skill is so hard to measure that if a government did try to
+hire people with it, they'd almost certainly get the wrong ones.For example, a city could give money to a VC fund to establish a
+local branch, and let them make the choices.  But only a bad VC
+fund would take that deal.  They wouldn't seem bad to the city
+officials.  They'd seem very impressive.  But they'd be bad at
+picking startups.  That's the characteristic failure mode of VCs.
+All VCs look impressive to limited partners.  The difference between
+the good ones and the bad ones only becomes visible in the other
+half of their jobs: choosing and advising startups.
+[2]What you really want is a pool of local angel investors—people
+investing money they made from their own startups.  But unfortunately
+you run into a chicken and egg problem here.  If your city isn't
+already a startup hub, there won't be people there who got rich
+from startups. And there is no way I can think of that a city could
+attract angels from outside. By definition they're rich.  There's
+no incentive that would make them move.
+[3]However, a city could select startups by piggybacking on the expertise
+of investors who weren't local.  It would be pretty straightforward
+to make a list of the most eminent Silicon Valley angels and from
+that to generate a list of all the startups they'd invested in.  If
+a city offered these companies a million dollars each to move, a
+lot of the earlier stage ones would probably take it.Preposterous as this plan sounds, it's probably the most efficient
+way a city could select good startups.It would hurt the startups somewhat to be separated from their
+original investors. On the other hand, the extra million dollars
+would give them a lot more runway.___Would the transplanted startups survive?  Quite possibly. The only
+way to find out would be to try it.  It would be a pretty cheap
+experiment, as civil expenditures go.  Pick 30 startups that eminent
+angels have recently invested in, give them each a million dollars
+if they'll relocate to your city, and see what happens after a year.
+If they seem to be thriving, you can try importing startups on a
+larger scale.Don't be too legalistic about the conditions under which they're
+allowed to leave.  Just have a gentlemen's agreement.Don't try to do it on the cheap and pick only 10 for the initial
+experiment.  If you do this on too small a scale you'll just guarantee
+failure. Startups need to be around other startups.  30 would be
+enough to feel like a community.Don't try to make them all work in some renovated warehouse you've
+made into an "incubator."  Real startups prefer to work in their
+own spaces.In fact, don't impose any restrictions on the startups at all.
+Startup founders are mostly hackers, 
+and hackers are much more
+constrained by gentlemen's agreements than regulations.  If they
+shake your hand on a promise, they'll keep it.  But show them a
+lock and their first thought is how to pick it.Interestingly, the 30-startup experiment could be done by any
+sufficiently rich private citizen.  And what pressure it would 
+put on the city if it worked.
+[4]___Should the city take stock in return for the money?
+In principle they're entitled to, but how would they choose valuations
+for the startups?  You couldn't just give them all the same valuation:
+that would be too low for some (who'd turn you down) and too high
+for others (because it might make their next round a "down round").
+And since we're assuming we're doing this without being able to
+pick startups, we also have to assume we can't value them, since
+that's practically the same thing.Another reason not to take stock in the startups is that startups
+are often involved in disreputable things.  So are established
+companies, but they don't get blamed for it.  If someone gets
+murdered by someone they met on Facebook, the press will treat the
+story as if it were about Facebook.  If someone gets murdered by
+someone they met at a supermarket, the press will just treat it as
+a story about a murder.  So understand that if you invest in startups,
+they might build things that get used for pornography, or file-sharing,
+or the expression of unfashionable opinions.  You should probably
+sponsor this project jointly with your political opponents, so they
+can't use whatever the startups do as a club to beat you with.It would be too much of a political liability just to give
+the startups the money, though.  So the best plan would be to 
+make it convertible debt, but which didn't convert except in
+a really big round, like $20 million.___How well this scheme worked would depend on the 
+city.  There are
+some towns, like Portland, that would be easy to turn into startup
+hubs, and others, like Detroit, where it would really be an uphill
+battle.  So be honest with yourself about the sort of town you have
+before you try this.It will be easier in proportion to how much your town resembles San
+Francisco.  Do you have good weather?  Do people live downtown, or
+have they abandoned the center for the suburbs?  Would the city be
+described as "hip" and "tolerant," or as reflecting "traditional
+values?"  Are there good universities nearby?  Are there walkable
+neighborhoods?  Would nerds feel at home?  If you answered yes to
+all these questions, you might be able not only to pull off this
+scheme, but to do it for less than a million per startup.I realize the chance of any city having
+the political will to carry out this plan is microscopically
+small.  I just wanted to explore what it would take if one did.
+How hard would it be to jumpstart a silicon valley?  It's
+fascinating to think this prize might be within
+the reach of so many cities.  So even though they'll all still
+spend the money on the stadium, at least now someone can ask them:
+why did you choose to do that instead of becoming a serious
+rival to Silicon Valley?Notes[1]
+What people who start these supposedly local seed firms always
+find is that (a) their applicants come from all over, not just the
+local area, and (b) the local startups also apply to the other seed
+firms.  So what ends up happening is that the applicant pool gets
+partitioned by quality rather than geography.[2]
+Interestingly, the bad VCs fail by choosing startups run by
+people like them—people who are good presenters, but have no
+real substance.   It's a case of the fake leading the fake.  And
+since everyone involved is so plausible, the LPs who invest in these
+funds have no idea what's happening till they measure their returns.[3]
+Not even being a tax haven, I suspect.  That makes some rich
+people move, but not the type who would make good angel investors
+in startups.[4]
+Thanks to Michael Keenan for pointing this out.Thanks to Trevor Blackwell, Jessica Livingston, Robert
+Morris, and Fred Wilson for reading drafts of this.
+
+ ---- NEW ESSAY ---- 
+
+February 2009Hacker News was two years
+old last week.  Initially it was supposed to be a side project—an
+application to sharpen Arc on, and a place for current and future
+Y Combinator founders to exchange news.  It's grown bigger and taken
+up more time than I expected, but I don't regret that because I've
+learned so much from working on it.GrowthWhen we launched in February 2007, weekday traffic was around 1600
+daily uniques.  It's since grown to around 22,000.  This growth
+rate is a bit higher than I'd like.  I'd like the site to grow,
+since a site that isn't growing at least slowly is probably dead.
+But I wouldn't want it to grow as large as Digg or Reddit—mainly
+because that would dilute the character of the site, but also because
+I don't want to spend all my time dealing with scaling.I already have problems enough with that.  Remember, the original
+motivation for HN was to test a new programming language, and
+moreover one that's focused on experimenting with language design,
+not performance.  Every time the site gets slow, I fortify myself
+by recalling McIlroy and Bentley's famous quote
+
+  The key to performance is elegance, not battalions of special
+  cases.
+
+and look for the bottleneck I can remove with least code.  So far
+I've been able to keep up, in the sense that performance has remained
+consistently mediocre despite 14x growth. I don't know what I'll
+do next, but I'll probably think of something.This is my attitude to the site generally.  Hacker News is an
+experiment, and an experiment in a very young field.  Sites of this
+type are only a few years old.  Internet conversation generally is
+only a few decades old.  So we've probably only discovered a fraction
+of what we eventually will.That's why I'm so optimistic about HN.  When a technology is this
+young, the existing solutions are usually terrible; which means it
+must be possible to do much better; which means many problems that
+seem insoluble aren't. Including, I hope, the problem that has
+afflicted so many previous communities: being ruined by growth.DilutionUsers have worried about that since the site was a few months old.
+So far these alarms have been false, but they may not always be.
+Dilution is a hard problem. But probably soluble; it doesn't mean
+much that open conversations have "always" been destroyed by growth
+when "always" equals 20 instances.But it's important to remember we're trying to solve a new problem,
+because that means we're going to have to try new things, most of
+which probably won't work.  A couple weeks ago I tried displaying
+the names of users with the highest average comment scores in orange.
+[1]
+That was a mistake.  Suddenly a culture that had been more
+or less united was divided into haves and have-nots.  I didn't
+realize how united the culture had been till I saw it divided.  It
+was painful to watch.
+[2]So orange usernames won't be back.  (Sorry about that.)  But there
+will be other equally broken-seeming ideas in the future, and the
+ones that turn out to work will probably seem just as broken as
+those that don't.Probably the most important thing I've learned about dilution is
+that it's measured more in behavior than users. It's bad behavior
+you want to keep out more than bad people. User behavior turns out
+to be surprisingly malleable.  If people are 
+expected to behave
+well, they tend to; and vice versa.Though of course forbidding bad behavior does tend to keep away bad
+people, because they feel uncomfortably constrained in a place where
+they have to behave well.  But this way of keeping them out is
+gentler and probably also more effective than overt barriers.It's pretty clear now that the broken windows theory applies to
+community sites as well.  The theory is that minor forms of bad
+behavior encourage worse ones: that a neighborhood with lots of
+graffiti and broken windows becomes one where robberies occur.  I
+was living in New York when Giuliani introduced the reforms that
+made the broken windows theory famous, and the transformation was
+miraculous. And I was a Reddit user when the opposite happened
+there, and the transformation was equally dramatic.I'm not criticizing Steve and Alexis.  What happened to Reddit
+didn't happen out of neglect.  From the start they had a policy of
+censoring nothing except spam.  Plus Reddit had different goals
+from Hacker News.  Reddit was a startup, not a side project; its
+goal was to grow as fast as possible.  Combine rapid growth and
+zero censorship, and the result is a free for all.  But I don't
+think they'd do much differently if they were doing it again.
+Measured by traffic, Reddit is much more successful than Hacker
+News.But what happened to Reddit won't inevitably happen to HN. There
+are several local maxima.  There can be places that are free for
+alls and places that are more thoughtful, just as there are in the
+real world; and people will behave differently depending on which
+they're in, just as they do in the real world.I've observed this in the wild.  I've seen people cross-posting on
+Reddit and Hacker News who actually took the trouble to write two
+versions, a flame for Reddit and a more subdued version for HN.SubmissionsThere are two major types of problems a site like Hacker News needs
+to avoid: bad stories and bad comments.  So far the danger of bad
+stories seems smaller.  The stories on the frontpage now are still
+roughly the ones that would have been there when HN started.I once thought I'd have to weight votes to keep crap off the
+frontpage, but I haven't had to yet.  I wouldn't have predicted the
+frontpage would hold up so well, and I'm not sure why it has.
+Perhaps only the more thoughtful users care enough to submit and
+upvote links, so the marginal cost of one random new user approaches
+zero.  Or perhaps the frontpage protects itself, by advertising what type of submission is expected.The most dangerous thing for the frontpage is stuff that's too easy
+to upvote.  If someone proves a new theorem, it takes some work by
+the reader to decide whether or not to upvote it.  An amusing cartoon
+takes less.  A rant with a rallying cry as the title takes zero,
+because people vote it up without even reading it.Hence what I call the Fluff Principle: on a user-voted news site,
+the links that are easiest to judge will take over unless you take
+specific measures to prevent it.Hacker News has two kinds of protections against fluff.  The most
+common types of fluff links are banned as off-topic.  Pictures of
+kittens, political diatribes, and so on are explicitly banned.  This
+keeps out most fluff, but not all of it.  Some links are both fluff,
+in the sense of being very short, and also on topic.There's no single solution to that.  If a link is just an empty
+rant, editors will sometimes kill it even if it's on topic in the
+sense of being about hacking, because it's not on topic by the real
+standard, which is to engage one's intellectual curiosity.  If the
+posts on a site are characteristically of this type I sometimes ban
+it, which means new stuff at that url is auto-killed.  If a post
+has a linkbait title, editors sometimes rephrase it to be more
+matter-of-fact.  This is especially necessary with links whose
+titles are rallying cries, because otherwise they become implicit
+"vote up if you believe such-and-such" posts, which are the most
+extreme form of fluff.The techniques for dealing with links have to evolve, because the
+links do. The existence of aggregators has already affected what
+they aggregate. Writers now deliberately write things to draw traffic
+from aggregators—sometimes even specific ones.  (No, the irony
+of this statement is not lost on me.)  Then there are the more
+sinister mutations, like linkjacking—posting a paraphrase of
+someone else's article and submitting that instead of the original.
+These can get a lot of upvotes, because a lot of what's good in an
+article often survives; indeed, the closer the paraphrase is to
+plagiarism, the more survives.
+[3]I think it's important that a site that kills submissions provide
+a way for users to see what got killed if they want to.  That keeps
+editors honest, and just as importantly, makes users confident
+they'd know if the editors stopped being honest. HN users can do
+this by flipping a switch called showdead in their profile.
+[4]CommentsBad comments seem to be a harder problem than bad submissions.
+While the quality of links on the frontpage of HN hasn't changed
+much, the quality of the median comment may have decreased somewhat.There are two main kinds of badness in comments: meanness and
+stupidity.  There is a lot of overlap between the two—mean
+comments are disproportionately likely also to be dumb—but
+the strategies for dealing with them are different.  Meanness is
+easier to control.  You can have rules saying one shouldn't be mean,
+and if you enforce them it seems possible to keep a lid on meanness.Keeping a lid on stupidity is harder, perhaps because stupidity is
+not so easily distinguishable.  Mean people are more likely to know
+they're being mean than stupid people are to know they're being
+stupid.The most dangerous form of stupid comment is not the long but
+mistaken argument, but the dumb joke.  Long but mistaken arguments
+are actually quite rare.  There is a strong correlation between
+comment quality and length; if you wanted to compare the quality
+of comments on community sites, average length would be a good
+predictor.  Probably the cause is human nature rather than anything
+specific to comment threads. Probably it's simply that stupidity
+more often takes the form of having few ideas than wrong ones.Whatever the cause, stupid comments tend to be short.  And since
+it's hard to write a short comment that's distinguished for the
+amount of information it conveys, people try to distinguish them
+instead by being funny.  The most tempting format for stupid comments
+is the supposedly witty put-down, probably because put-downs are
+the easiest form of humor. 
+[5]
+So one advantage of forbidding
+meanness is that it also cuts down on these.Bad comments are like kudzu: they take over rapidly. Comments have
+much more effect on new comments than submissions have on new
+submissions.  If someone submits a lame article, the other submissions
+don't all become lame.  But if someone posts a stupid comment on a
+thread, that sets the tone for the region around it.  People reply
+to dumb jokes with dumb jokes.Maybe the solution is to add a delay before people can respond to
+a comment, and make the length of the delay inversely proportional
+to some prediction of its quality.  Then dumb threads would grow
+slower.
+[6]PeopleI notice most of the techniques I've described are conservative:
+they're aimed at preserving the character of the site rather than
+enhancing it.  I don't think that's a bias of mine.  It's due to
+the shape of the problem.  Hacker News had the good fortune to start
+out good, so in this case it's literally a matter of preservation.
+But I think this principle would also apply to sites with different
+origins.The good things in a community site come from people more than
+technology; it's mainly in the prevention of bad things that
+technology comes into play. Technology certainly can enhance
+discussion.  Nested comments do, for example.  But I'd rather use
+a site with primitive features and smart, nice users than a more
+advanced one whose users were idiots or trolls.So the most important thing a community site can do is attract the
+kind of people it wants.  A site trying to be as big as possible
+wants to attract everyone.  But a site aiming at a particular subset
+of users has to attract just those—and just as importantly,
+repel everyone else.  I've made a conscious effort to do this on
+HN.  The graphic design is as plain as possible, and the site rules
+discourage dramatic link titles.  The goal is that the only thing
+to interest someone arriving at HN for the first time should be the
+ideas expressed there.The downside of tuning a site to attract certain people is that,
+to those people, it can be too attractive.  I'm all too aware how
+addictive Hacker News can be.  For me, as for many users, it's a
+kind of virtual town square.  When I want to take a break from
+working, I walk into the square, just as I might into Harvard Square
+or University Ave in the physical world.
+[7]
+But an online square is
+more dangerous than a physical one.  If I spent half the day loitering
+on University Ave, I'd notice.  I have to walk a mile to get there,
+and sitting in a cafe feels different from working. But visiting
+an online forum takes just a click, and feels superficially very
+much like working.  You may be wasting your time, but you're not
+idle.  Someone is wrong on the Internet, and you're fixing the
+problem.Hacker News is definitely useful.  I've learned a lot from things
+I've read on HN.  I've written several essays that began as comments
+there.  So I wouldn't want the site to go away.  But I would like
+to be sure it's not a net drag on productivity.  What a disaster
+that would be, to attract thousands of smart people to a site that
+caused them to waste lots of time.  I wish I could be 100% sure
+that's not a description of HN.I feel like the addictiveness of games and social applications is
+still a mostly unsolved problem.  The situation now is like it was
+with crack in the 1980s: we've invented terribly addictive new
+things, and we haven't yet evolved ways to protect ourselves from
+them.  We will eventually, and that's one of the problems I hope
+to focus on next.Notes[1]
+I tried ranking users by both average and median comment
+score, and average (with the high score thrown out) seemed the more
+accurate predictor of high quality.  Median may be the more accurate
+predictor of low quality though.[2]
+Another thing I learned from this experiment is that if you're
+going to distinguish between people, you better be sure you do it
+right.  This is one problem where rapid prototyping doesn't work.Indeed, that's the intellectually honest argument for not discriminating
+between various types of people.  The reason not to do it is not
+that everyone's the same, but that it's bad to do wrong and hard
+to do right.[3]
+When I catch egregiously linkjacked posts I replace the url
+with that of whatever they copied.  Sites that habitually linkjack
+get banned.[4]
+Digg is notorious for its lack of transparency.  The root of
+the problem is not that the guys running Digg are especially sneaky,
+but that they use the wrong algorithm for generating their frontpage.
+Instead of bubbling up from the bottom as they get more votes, as
+on Reddit, stories start at the top and get pushed down by new
+arrivals.The reason for the difference is that Digg is derived from Slashdot,
+while Reddit is derived from Delicious/popular.  Digg is Slashdot
+with voting instead of editors, and Reddit is Delicious/popular
+with voting instead of bookmarking.  (You can still see fossils of
+their origins in their graphic design.)Digg's algorithm is very vulnerable to gaming, because any story
+that makes it onto the frontpage is the new top story.  Which in
+turn forces Digg to respond with extreme countermeasures.  A lot
+of startups have some kind of secret about the subterfuges they had
+to resort to in the early days, and I suspect Digg's is the extent
+to which the top stories were de facto chosen by human editors.[5]
+The dialog on Beavis and Butthead was composed largely of
+these, and when I read comments on really bad sites I can hear them
+in their voices.[6]
+I suspect most of the techniques for discouraging stupid
+comments have yet to be discovered.  Xkcd implemented a particularly
+clever one in its IRC channel: don't allow the same thing twice.
+Once someone has said "fail," no one can ever say it again.  This
+would penalize short comments especially, because they have less
+room to avoid collisions in.Another promising idea is the stupid 
+filter, which is just like a
+probabilistic spam filter, but trained on corpora of stupid and
+non-stupid comments instead.You may not have to kill bad comments to solve the problem.  Comments
+at the bottom of a long thread are rarely seen, so it may be enough
+to incorporate a prediction of quality in the comment sorting
+algorithm.[7]
+What makes most suburbs so demoralizing is that there's no
+center to walk to.Thanks to Justin Kan, Jessica Livingston, Robert Morris,
+Alexis Ohanian, Emmet Shear, and Fred Wilson for reading drafts of
+this.Comment on this essay.
+
+ ---- NEW ESSAY ---- 
+
+Want to start a startup?  Get funded by
+Y Combinator.
+
+
+Watch how this essay was
+written.
+
+
+February 2009One of the things I always tell startups is a principle I learned
+from Paul Buchheit: it's better to make a few people really happy
+than to make a lot of people semi-happy.  I was saying recently to
+a reporter that if I could only tell startups 10 things, this would
+be one of them.  Then I thought: what would the other 9 be?When I made the list there turned out to be 13:
+
+1. Pick good cofounders.Cofounders are for a startup what location is for real estate.  You
+can change anything about a house except where it is.  In a startup
+you can change your idea easily, but changing your cofounders is
+hard. 
+[1]
+And the success of a startup is almost always a function
+of its founders.2. Launch fast.The reason to launch fast is not so much that it's critical to get
+your product to market early, but that you haven't really started
+working on it till you've launched.  Launching teaches you what you
+should have been building.  Till you know that you're wasting your
+time.  So the main value of whatever you launch with is as a pretext
+for engaging users.3. Let your idea evolve.This is the second half of launching fast. Launch fast and iterate.
+It's a big mistake to treat a startup as if it were merely a matter
+of implementing some brilliant initial idea. As in an essay, most
+of the ideas appear in the implementing.4. Understand your users.You can envision the wealth created by a startup as a rectangle,
+where one side is the number of users and the other is how much you
+improve their lives.
+[2]
+The second dimension is the one you have
+most control over.  And indeed, the growth in the first will be
+driven by how well you do in the second.  As in science, the hard
+part is not answering questions but asking them: the hard part is
+seeing something new that users lack. The better you understand
+them the better the odds of doing that. That's why so many successful
+startups make something the founders needed.5. Better to make a few users love you than a lot ambivalent.Ideally you want to make large numbers of users love you, but you
+can't expect to hit that right away.  Initially you have to choose
+between satisfying all the needs of a subset of potential users,
+or satisfying a subset of the needs of all potential users.  Take
+the first. It's easier to expand userwise than satisfactionwise.
+And perhaps more importantly, it's harder to lie to yourself.  If
+you think you're 85% of the way to a great product, how do you know
+it's not 70%?  Or 10%?  Whereas it's easy to know how many users
+you have.6. Offer surprisingly good customer service.Customers are used to being maltreated.  Most of the companies they
+deal with are quasi-monopolies that get away with atrocious customer
+service. Your own ideas about what's possible have been unconsciously
+lowered by such experiences.  Try making your customer service not
+merely good, but 
+surprisingly good.  Go out of your way to make
+people happy.  They'll be overwhelmed; you'll see.  In the earliest
+stages of a startup, it pays to offer customer service on a level
+that wouldn't scale, because it's a way of learning about your
+users.7. You make what you measure.I learned this one from Joe Kraus. 
+[3]
+Merely measuring something
+has an uncanny tendency to improve it.  If you want to make your
+user numbers go up, put a big piece of paper on your wall and every
+day plot the number of users.  You'll be delighted when it goes up
+and disappointed when it goes down.  Pretty soon you'll start
+noticing what makes the number go up, and you'll start to do more
+of that.  Corollary: be careful what you measure.8. Spend little.I can't emphasize enough how important it is for a startup to be cheap.
+Most startups fail before they make something people want, and the
+most common form of failure is running out of money.  So being cheap
+is (almost) interchangeable with iterating rapidly.
+[4]
+But it's
+more than that.  A culture of cheapness keeps companies young in
+something like the way exercise keeps people young.9. Get ramen profitable."Ramen profitable" means a startup makes just enough to pay the
+founders' living expenses.  It's not rapid prototyping for business
+models (though it can be), but more a way of hacking the investment
+process.  Once you cross over into ramen profitable, it completely
+changes your relationship with investors.  It's also great for
+morale.10. Avoid distractions.Nothing kills startups like distractions.  The worst type are those
+that pay money: day jobs, consulting, profitable side-projects.
+The startup may have more long-term potential, but you'll always
+interrupt working on it to answer calls from people paying you now.
+Paradoxically, fundraising is this type of distraction, so try to
+minimize that too.11. Don't get demoralized.Though the immediate cause of death in a startup tends to be running
+out of money, the underlying cause is usually lack of focus.  Either
+the company is run by stupid people (which can't be fixed with
+advice) or the people are smart but got demoralized.  Starting a
+startup is a huge moral weight.  Understand this and make a conscious
+effort not to be ground down by it, just as you'd be careful to
+bend at the knees when picking up a heavy box.12. Don't give up.Even if you get demoralized, don't give up.  You can get surprisingly
+far by just not giving up.  This isn't true in all fields.  There
+are a lot of people who couldn't become good mathematicians no
+matter how long they persisted.  But startups aren't like that.
+Sheer effort is usually enough, so long as you keep morphing your
+idea.13. Deals fall through.One of the most useful skills we learned from Viaweb was not getting
+our hopes up.  We probably had 20 deals of various types fall
+through.  After the first 10 or so we learned to treat deals as
+background processes that we should ignore till they terminated.
+It's very dangerous to morale to start to depend on deals closing,
+not just because they so often don't, but because it makes them
+less likely to.
+
+Having gotten it down to 13 sentences, I asked myself which I'd
+choose if I could only keep one.Understand your users.  That's the key.  The essential task in a
+startup is to create wealth; the dimension of wealth you have most
+control over is how much you improve users' lives; and the hardest
+part of that is knowing what to make for them.  Once you know what
+to make, it's mere effort to make it, and most decent hackers are
+capable of that.Understanding your users is part of half the principles in this
+list.  That's the reason to launch early, to understand your users.
+Evolving your idea is the embodiment of understanding your users.
+Understanding your users well will tend to push you toward making
+something that makes a few people deeply happy.  The most important
+reason for having surprisingly good customer service is that it
+helps you understand your users.  And understanding your users will
+even ensure your morale, because when everything else is collapsing
+around you, having just ten users who love you will keep you going.Notes[1]
+Strictly speaking it's impossible without a time machine.[2]
+In practice it's more like a ragged comb.[3]
+Joe thinks one of the founders of Hewlett Packard said it first,
+but he doesn't remember which.[4]
+They'd be interchangeable if markets stood still.  Since they
+don't, working twice as fast is better than having twice as much
+time.Turkish TranslationSpanish TranslationBulgarian TranslationJapanese TranslationPersian Translation
+
+ ---- NEW ESSAY ---- 
+
+February 2009I finally realized today why politics and religion yield such
+uniquely useless discussions.As a rule, any mention of religion on an online forum degenerates
+into a religious argument.  Why?  Why does this happen with religion
+and not with Javascript or baking or other topics people talk about
+on forums?What's different about religion is that people don't feel they need
+to have any particular expertise to have opinions about
+it.  All they need is strongly held beliefs, and anyone can have
+those.  No thread about Javascript will grow as fast as one about
+religion, because people feel they have to be over some threshold
+of expertise to post comments about that.  But on religion everyone's
+an expert.Then it struck me: this is the problem with politics too.  Politics,
+like religion, is a topic where there's no threshold of expertise
+for expressing an opinion.  All you need is strong convictions.Do religion and politics have something in common that explains
+this similarity?  One possible explanation is that they deal with
+questions that have no definite answers, so there's no back pressure
+on people's opinions.  Since no one can be proven wrong, every
+opinion is equally valid, and sensing this, everyone lets fly with
+theirs.But this isn't true.  There are certainly some political questions
+that have definite answers, like how much a new government policy
+will cost.  But the more precise political questions suffer the
+same fate as the vaguer ones.I think what religion and politics have in common is that they
+become part of people's identity, and people can never have a
+fruitful argument about something that's part of their identity.
+By definition they're partisan.Which topics engage people's identity depends on the people, not
+the topic.  For example, a discussion about a battle that included
+citizens of one or more of the countries involved would probably
+degenerate into a political argument.  But a discussion today about
+a battle that took place in the Bronze Age probably wouldn't.  No
+one would know what side to be on.  So it's not politics that's the
+source of the trouble, but identity.  When people say a discussion
+has degenerated into a religious war, what they really mean is that
+it has started to be driven mostly by people's identities.
+[1]Because the point at which this happens depends on the people rather
+than the topic, it's a mistake to conclude that because a question
+tends to provoke religious wars, it must have no answer. For example,
+the question of the relative merits of programming languages often
+degenerates into a religious war, because so many programmers
+identify as X programmers or Y programmers.  This sometimes leads
+people to conclude the question must be unanswerable—that all
+languages are equally good.  Obviously that's false: anything else
+people make can be well or badly designed; why should this be
+uniquely impossible for programming languages?  And indeed, you can
+have a fruitful discussion about the relative merits of programming
+languages, so long as you exclude people who respond from identity.More generally, you can have a fruitful discussion about a topic
+only if it doesn't engage the identities of any of the
+participants.  What makes politics and religion such minefields is
+that they engage so many people's identities.  But you could in
+principle have a useful conversation about them with some people.
+And there are other topics that might seem harmless, like the
+relative merits of Ford and Chevy pickup trucks, that you couldn't
+safely talk about with others.The most intriguing thing about this theory, if it's right, is that
+it explains not merely which kinds of discussions to avoid, but how
+to have better ideas.  If people can't think clearly about anything
+that has become part of their identity, then all other things being
+equal, the best plan is to let as few things into your identity as
+possible. 
+[2]Most people reading this will already be fairly tolerant.  But there
+is a step beyond thinking of yourself as x but tolerating y: not
+even to consider yourself an x.  The more labels you have for
+yourself, the dumber they make you.Notes[1]
+When that happens, it tends to happen fast, like a core going
+critical.  The threshold for participating goes down to zero, which
+brings in more people.  And they tend to say incendiary things,
+which draw more and angrier counterarguments.[2]
+There may be some things it's a net win to include in your
+identity.  For example, being a scientist.  But arguably that is
+more of a placeholder than an actual label—like putting NMI on a
+form that asks for your middle initial—because it doesn't commit
+you to believing anything in particular.   A scientist isn't committed
+to believing in natural selection in the same way a biblical
+literalist is committed to rejecting it.  All he's committed to is
+following the evidence wherever it leads.Considering yourself a scientist is equivalent to putting a sign
+in a cupboard saying "this cupboard must be kept empty."  Yes,
+strictly speaking, you're putting something in the cupboard, but
+not in the ordinary sense.Thanks to Sam Altman, Trevor Blackwell, Paul Buchheit, and Robert
+Morris for reading drafts of this.Russian TranslationPortuguese TranslationRomanian Translation
+
+ ---- NEW ESSAY ---- 
+
+December 2008A few months ago I read a New York Times article on South
+Korean cram schools that said 
+  Admission to the right university can make or break an ambitious
+  young South Korean.
+ A parent added: 
+  "In our country, college entrance exams determine 70 to 80 percent
+  of a person's future."
+ It was striking how old fashioned this sounded.  And
+yet when I was in high school it wouldn't have seemed too far off
+as a description of the US.  Which means things must have been
+changing here.The course of people's lives in the US now seems to be determined
+less by credentials and more by performance than it was 25 years
+ago.  Where you go to college still matters, but not like it used
+to.What happened?_____Judging people by their academic credentials was in its time an
+advance.  The practice seems to have begun in China, where starting
+in 587 candidates for the imperial civil service had to take an
+exam on classical literature.  [1] It was also a test of wealth,
+because the knowledge it tested was so specialized that passing
+required years of expensive training.  But though wealth was a
+necessary condition for passing, it was not a sufficient one.  By
+the standards of the rest of the world in 587, the Chinese system
+was very enlightened.  Europeans didn't introduce formal civil
+service exams till the nineteenth century, and even then they seem
+to have been influenced by the Chinese example.Before credentials, government positions were obtained mainly by
+family influence, if not outright bribery.   It was a great step
+forward to judge people by their performance on a test.  But by no
+means a perfect solution.  When you judge people that way, you tend
+to get cram schools — which they did in Ming China and nineteenth
+century England just as much as in present day South Korea.What cram schools are, in effect, is leaks in a seal.  The use of
+credentials
+was an attempt to seal off the direct transmission of power between
+generations, and cram schools represent that power finding holes
+in the seal.  Cram schools turn wealth in one generation into
+credentials in the next.It's hard to beat this phenomenon, because the schools adjust to suit
+whatever the tests measure.  When the tests are narrow and
+predictable, you get cram schools on the classic model, like those
+that prepared candidates for Sandhurst (the British West Point) or
+the classes American students take now to improve their SAT scores.
+But as the tests get broader, the schools do too.  Preparing a
+candidate for the Chinese imperial civil service exams took years,
+as prep school does today.  But the raison d'etre of all these
+institutions has been the same: to beat the system.  [2]_____History suggests that, all other things being equal, a society
+prospers in proportion to its ability to prevent parents from
+influencing their children's success directly.  It's a fine thing
+for parents to help their children indirectly — for example,
+by helping them to become smarter or more disciplined, which then
+makes them more successful.  The problem comes when parents use
+direct methods: when they are able to use their own wealth or power
+as a substitute for their children's qualities.Parents will tend to do this when they can.  Parents will die for
+their kids, so it's not surprising to find they'll also push their
+scruples to the limits for them.  Especially if other parents are
+doing it.Sealing off this force has a double advantage.  Not only does a
+society get "the best man for the job," but
+parents' ambitions are diverted from direct methods to indirect
+ones — to actually trying to raise their kids well.But we should expect it to be very hard to contain parents' efforts
+to obtain an unfair advantage for their kids.  We're dealing with
+one of the most powerful forces in human nature.  We shouldn't expect
+naive solutions to work, any more than we'd expect naive solutions
+for keeping heroin out of a prison to work._____The obvious way to solve the problem is to make credentials better.
+If the tests a society uses are currently hackable, we can study
+the way people beat them and try to plug the holes.  You can use
+the cram schools to show you where most of the holes are.  They
+also tell you when you're succeeding in fixing them: when cram
+schools become less popular.A more general solution
+would be to push for increased transparency, especially at critical
+social bottlenecks like college admissions.  In the US this process
+still shows many outward signs of corruption.  For example, legacy
+admissions.  The official story is that legacy status doesn't carry
+much weight, because all it does is break ties: applicants are
+bucketed by ability, and legacy status is only used to decide between
+the applicants in the bucket that straddles the cutoff.  But what
+this means is that a university can make legacy status have as much
+or as little weight as they want, by adjusting the size of the
+bucket that straddles the cutoff.By gradually chipping away at the abuse of credentials, you could
+probably make them more airtight.  But what a long fight it would
+be.  Especially when the institutions administering the tests don't
+really want them to be airtight._____Fortunately there's a better way to prevent the direct transmission
+of power between generations.  Instead of trying to make credentials
+harder to hack, we can also make them matter less.Let's think about what credentials are for.  What they are,
+functionally, is a way of predicting performance.  If you could
+measure actual performance, you wouldn't need them.So why did they even evolve?  Why haven't we just been measuring
+actual performance?  Think about where credentialism first appeared:
+in selecting candidates for large organizations.  Individual
+performance is hard to measure in large organizations, and the
+harder performance is to measure, the more important it is
+to predict it.  If an organization could immediately and cheaply
+measure the performance of recruits, they wouldn't need to examine
+their credentials.  They could take everyone and keep just the good
+ones.Large organizations can't do this.  But a bunch of small organizations
+in a market can come close.  A market takes every organization and
+keeps just the good ones.  As organizations get smaller, this
+approaches taking every person and keeping just the good ones.  So
+all other things being equal, a society consisting of more, smaller
+organizations will care less about credentials._____That's what's been happening in the US.  That's why those quotes
+from Korea sound so old fashioned.  They're talking about an economy
+like America's a few decades ago, dominated by a few big companies.
+The route for the ambitious in that sort of environment is to join
+one and climb to the top.  Credentials matter a lot then.  In the 
+culture of a large organization, an elite pedigree becomes a self-fulfilling
+prophecy.This doesn't work in small companies.  Even if your colleagues were
+impressed by your credentials, they'd soon be parted from you if
+your performance didn't match, because the company would go out of
+business and the people would be dispersed.In a world of small companies, performance is all anyone cares
+about.  People hiring for a startup don't care whether you've even
+graduated from college, let alone which one.  All they care about
+is what you can do.  Which is in fact all that should matter, even
+in a large organization.  The reason credentials have such prestige
+is that for so long the large organizations
+in a society tended to be the most powerful.  But in the US at least
+they don't have the monopoly on power they once did, precisely
+because they can't measure (and thus reward) individual performance.
+Why spend twenty years climbing the corporate ladder when you can
+get rewarded directly by the market?I realize I see a more exaggerated version of the change than most
+other people.  As a partner at an early stage venture funding firm,
+I'm like a jumpmaster shoving people out of the old world of
+credentials and into the new one of performance.  I'm an agent of
+the change I'm seeing.  But I don't think I'm imagining it.  It was
+not so easy 25 years ago for an ambitious person to choose to be
+judged directly by the market.  You had to go through bosses, and
+they were influenced by where you'd been to college._____What made it possible for small organizations to succeed in America?
+I'm still not entirely sure.  Startups are certainly a large part
+of it.  Small organizations can develop new ideas faster than large
+ones, and new ideas are increasingly valuable.But I don't think startups account for all the shift from credentials
+to measurement.  My friend Julian Weber told me that when he went
+to work for a New York law firm in the 1950s they paid associates
+far less than firms do today.  Law firms then made no pretense of
+paying people according to the value of the work they'd done.  Pay
+was based on seniority.  The younger employees were paying their
+dues.  They'd be rewarded later.The same principle prevailed at industrial companies.  When my
+father was working at Westinghouse in the 1970s, he had people
+working for him who made more than he did, because they'd been there
+longer.Now companies increasingly have to pay employees market price for
+the work they do.   One reason is that employees no longer trust
+companies to deliver 
+deferred rewards: why work to accumulate
+deferred rewards at a company that might go bankrupt, or be taken
+over and have all its implicit obligations wiped out?  The other
+is that some companies broke ranks and started to pay young employees
+large amounts.  This was particularly true in consulting, law, and
+finance, where it led to the phenomenon of yuppies.  The word is
+rarely used today because it's no longer surprising to see a 25
+year old with money, but in 1985 the sight of a 25 year old
+professional able to afford a new BMW was so novel that it
+called forth a new word.The classic yuppie worked for a small organization.  He didn't work
+for General Widget, but for the law firm that handled General
+Widget's acquisitions or the investment bank that floated their
+bond issues.Startups and yuppies entered the American conceptual vocabulary
+roughly simultaneously in the late 1970s and early 1980s.  I don't
+think there was a causal connection.  Startups happened because
+technology started to change so fast that big companies could no
+longer keep a lid on the smaller ones.  I don't think the rise of
+yuppies was inspired by it; it seems more as if there was a change
+in the social conventions (and perhaps the laws) governing the way
+big companies worked.  But the two phenomena rapidly fused to produce
+a principle that now seems obvious: paying energetic young people
+market rates, and getting correspondingly high performance from
+them.At about the same time the US economy rocketed out of the doldrums
+that had afflicted it for most of the 1970s.  Was there a connection?
+I don't know enough to say, but it felt like it at the time.  There
+was a lot of energy released._____Countries worried about their competitiveness are right to be
+concerned about the number of startups started within them.  But
+they would do even better to examine the underlying principle.  Do
+they let energetic young people get paid market rate for the work
+they do?  The young are the test, because when people aren't rewarded
+according to performance, they're invariably rewarded according to
+seniority instead.All it takes is a few beachheads in your economy that pay for
+performance.  Measurement spreads like heat.  If one part of a
+society is better at measurement than others, it tends to push the
+others to do better.  If people who are young but smart and driven
+can make more by starting their own companies than by working for
+existing ones, the existing companies are forced to pay more to
+keep them.  So market rates gradually permeate every organization,
+even the government.  [3]The measurement of performance will tend to push even the organizations
+issuing credentials into line.  When we were kids I used to annoy
+my sister by ordering her to do things I knew she was about to do
+anyway.  As credentials are superseded by performance, a similar
+role is the best former gatekeepers can hope for.  Once credential
+granting institutions are no longer in the self-fulfilling prophecy
+business, they'll have to work harder to predict the future._____Credentials are a step beyond bribery and influence.  But they're
+not the final step.  There's an even better way to block the
+transmission of power between generations: to encourage the trend
+toward an economy made of more, smaller units.  Then you can measure
+what credentials merely predict.No one likes the transmission of power between generations — not
+the left or the right.  But the market forces favored by the right
+turn out to be a better way of preventing it than the credentials
+the left are forced to fall back on.The era of credentials began to end when the power of large
+organizations peaked 
+in the late twentieth century.  Now we seem
+to be entering a new era based on measurement.  The reason the new
+model has advanced so rapidly is that it works so much better.  It
+shows no sign of slowing.Notes[1] Miyazaki, Ichisada
+(Conrad Schirokauer trans.), China's Examination Hell: The Civil
+Service Examinations of Imperial China, Yale University Press,
+1981.Scribes in ancient Egypt took exams, but they were more the type
+of proficiency test any apprentice might have to pass.[2] When I say the
+raison d'etre of prep schools is to get kids into better colleges,
+I mean this in the narrowest sense.  I'm not saying that's all prep
+schools do, just that if they had zero effect on college admissions
+there would be far less demand for them.[3] Progressive tax
+rates will tend to damp this effect, however, by decreasing the
+difference between good and bad measurers.Thanks to Trevor Blackwell, Sarah Harlin, Jessica Livingston, and David
+Sloo for reading drafts of this.
+
+ ---- NEW ESSAY ---- 
+
+December 2008(I originally wrote this at the request of a company producing
+a report about entrepreneurship.  Unfortunately after reading it
+they decided  it was too controversial to include.)
+VC funding will probably dry up somewhat during the present recession,
+like it usually does in bad times.  But this time the result may
+be different.  This time the number of new startups may not decrease.
+And that could be dangerous for VCs.When VC funding dried up after the Internet Bubble, startups dried
+up too.   There were not a lot of new startups being founded in
+2003.  But startups aren't tied to VC the way they were 10 years
+ago.  It's now possible for VCs and startups to diverge.  And if
+they do, they may not reconverge once the economy gets better.The reason startups no longer depend so much on VCs is one that
+everyone in the startup business knows by now: it has gotten much
+cheaper to start a startup.  There are four main reasons: Moore's
+law has made hardware cheap; open source has made software free;
+the web has made marketing and distribution free; and more powerful
+programming languages mean development teams can be smaller.  These
+changes have pushed the cost of starting a startup down into the
+noise.  In a lot of startups—probaby most startups funded by
+Y Combinator—the biggest expense is simply the founders'
+living expenses.  We've had startups that were profitable on revenues
+of $3000 a month.$3000 is insignificant as revenues go.  Why should anyone care about
+a startup making $3000 a month?  Because, although insignificant
+as revenue, this amount of money can change a startup's
+funding situation completely.Someone running a startup is always calculating in the back of their
+mind how much "runway" they have—how long they have till the
+money in the bank runs out and they either have to be profitable,
+raise more money, or go out of business.  Once you cross the threshold
+of profitability, however low, your runway becomes infinite.  It's
+a qualitative change, like the stars turning into lines and
+disappearing when the Enterprise accelerates to warp speed.  Once
+you're profitable you don't need investors' money.  And because
+Internet startups have become so cheap to run, the threshold of
+profitability can be trivially low.  Which means many Internet
+startups don't need VC-scale investments anymore.  For many startups,
+VC funding has, in the language of VCs, gone from a must-have to a
+nice-to-have.This change happened while no one was looking, and its effects have
+been largely masked so far.  It was during the trough after the
+Internet Bubble that it became trivially cheap to start a startup,
+but few realized it because startups were so out of fashion.   When
+startups came back into fashion, around 2005, investors were starting
+to write checks again.  And while founders may not have needed VC
+money the way they used to, they were willing to take it if
+offered—partly because there was a tradition of startups
+taking VC money, and partly because startups, like dogs, tend to
+eat when given the opportunity.  As long as VCs were writing checks,
+founders were never forced to explore the limits of how little they
+needed them.  There were a few startups who hit these limits
+accidentally because of their unusual circumstances—most
+famously 37signals, which hit the limit because they crossed into
+startup land from the other direction: they started as a consulting
+firm, so they had revenue before they had a product.VCs and founders are like two components that used to be bolted
+together.  Around 2000 the bolt was removed.  Because the components
+have so far been subjected to the same forces, they still seem to
+be joined together, but really one is just resting on the other.
+A sharp impact would make them fly apart.  And the present recession
+could be that impact.Because of Y Combinator's position at the extreme end of the spectrum,
+we'd be the first to see signs of a separation between founders and
+investors, and we are in fact seeing it.  For example, though the
+stock market crash does seem to have made investors more cautious,
+it doesn't seem to have had any effect on the number of people who
+want to start startups.  We take applications for funding every 6
+months.  Applications for the current funding cycle closed on October
+17, well after the markets tanked, and even so we got a record
+number, up 40% from the same cycle a year before.Maybe things will be different a year from now, if the economy
+continues to get worse, but so far there is zero slackening of
+interest among potential founders.  That's different from the way
+things felt in 2001.  Then there was a widespread feeling among
+potential founders that startups were over, and that one should
+just go to grad school.   That isn't happening this time, and part
+of the reason is that even in a bad economy it's not that hard to
+build something that makes $3000 a month.  If investors stop writing
+checks, who cares?We also see signs of a divergence between founders and investors
+in the attitudes of existing startups we've funded.  I was talking
+to one recently that had a round fall through at the last minute
+over the sort of trifle that breaks deals when investors feel they
+have the upper hand—over an uncertainty about whether the
+founders had correctly filed their 83(b) forms, if you can believe
+that.  And yet this startup is obviously going to succeed: their
+traffic and revenue graphs look like a jet taking off.  So I asked
+them if they wanted me to introduce them to more investors.  To my
+surprise, they said no—that they'd just spent four months
+dealing with investors, and they were actually a lot happier now
+that they didn't have to.  There was a friend they wanted to hire
+with the investor money, and now they'd have to postpone that.  But
+otherwise they felt they had enough in the bank to make it to
+profitability.  To make sure, they were moving to a cheaper apartment.
+And in this economy I bet they got a good deal on it.I've detected this "investors aren't worth the trouble" vibe from
+several YC founders I've talked to recently.  At least one startup
+from the most recent (summer) cycle may not even raise angel money,
+let alone VC.  Ticketstumbler
+made it to profitability on Y Combinator's $15,000 investment and
+they hope not to need more.  This surprised even us.  Although YC
+is based on the idea of it being cheap to start a startup, we never
+anticipated that founders would grow successful startups on nothing
+more than YC funding.If founders decide VCs aren't worth the trouble, that could be bad
+for VCs.  When the economy bounces back in a few years and they're
+ready to write checks again, they may find that founders have moved
+on.There is a founder community just as there's a VC community.  They
+all know one another, and techniques spread rapidly between them.
+If one tries a new programming language or a new hosting provider
+and gets good results, 6 months later half of them are using it.
+And the same is true for funding.  The current generation of founders
+want to raise money from VCs, and Sequoia specifically, because
+Larry and Sergey took money from VCs, and Sequoia specifically.
+Imagine what it would do to the VC business if the next hot company
+didn't take VC at all.VCs think they're playing a zero sum game.  In fact, it's not even
+that.  If you lose a deal to Benchmark, you lose that deal, but VC
+as an industry still wins.  If you lose a deal to None, all VCs
+lose.This recession may be different from the one after the Internet
+Bubble.  This time founders may keep starting startups.  And if
+they do, VCs will have to keep writing checks, or they could become
+irrelevant.Thanks to Sam Altman, Trevor Blackwell, David Hornik, Jessica
+Livingston, Robert Morris, and Fred Wilson for reading drafts of
+this.Russian Translation
+
+ ---- NEW ESSAY ---- 
+
+December 2008For nearly all of history the success of a society was proportionate
+to its ability to assemble large and disciplined organizations.
+Those who bet on economies of scale generally won, which meant the
+largest organizations were the most successful ones.Things have already changed so much that this is hard for us to
+believe, but till just a few decades ago the largest organizations
+tended to be the most progressive.  An ambitious kid graduating
+from college in 1960 wanted to work in the huge, gleaming offices
+of Ford, or General Electric, or NASA.  Small meant small-time.
+Small in 1960 didn't mean a cool little startup.  It meant uncle
+Sid's shoe store.When I grew up in the 1970s, the idea of the "corporate ladder" was
+still very much alive.  The standard plan was to try to get into a
+good college, from which one would be drafted into some organization
+and then rise to positions of gradually increasing responsibility.
+The more ambitious merely hoped to climb the same ladder faster.
+[1]But in the late twentieth century something changed.  It turned out
+that economies of scale were not the only force at work.  Particularly
+in technology, the increase in speed one could get from smaller
+groups started to trump the advantages of size.The future turned out to be different from the one we were expecting
+in 1970.  The domed cities and flying cars we expected have failed
+to materialize.  But fortunately so have the jumpsuits with badges
+indicating our specialty and rank.  Instead of being dominated by
+a few, giant tree-structured organizations, it's now looking like
+the economy of the future will be a fluid network of smaller,
+independent units.It's not so much that large organizations stopped working.  There's
+no evidence that famously successful organizations like the Roman
+army or the British East India Company were any less afflicted by
+protocol and politics than organizations of the same size today.
+But they were competing against opponents who couldn't change the
+rules on the fly by discovering new technology.  Now it turns out
+the rule "large and disciplined organizations win" needs to have a
+qualification appended: "at games that change slowly." No one knew
+till change reached a sufficient speed.Large organizations will start to do worse now, though,
+because for the first time in history they're no longer getting the
+best people.  An ambitious kid graduating from college now doesn't
+want to work for a big company.  They want to work for the hot
+startup that's rapidly growing into one.  If they're really ambitious,
+they want to start it. 
+[2]This doesn't mean big companies will disappear.  To say that
+startups will succeed implies that big companies will exist, because
+startups that succeed either become big companies or are acquired
+by them. 
+[3]
+But large organizations will probably never again
+play the leading role they did up till the last quarter of the
+twentieth century.It's kind of surprising that a trend that lasted so long would ever
+run out.  How often does it happen that a rule works for thousands
+of years, then switches polarity?The millennia-long run of bigger-is-better left us with a lot of
+traditions that are now obsolete, 
+but extremely deeply rooted.
+Which means the ambitious can now do arbitrage on them.  It will
+be very valuable to understand precisely which ideas to keep and
+which can now be discarded.The place to look is where the spread of smallness began: in the
+world of startups.There have always been occasional cases, particularly in the US,
+of ambitious people who grew the ladder under them instead of
+climbing it.  But till recently this was an anomalous route that
+tended to be followed only by outsiders.  It was no coincidence
+that the great industrialists of the nineteenth century had so
+little formal education.  As huge as their companies eventually
+became, they were all essentially mechanics and shopkeepers at
+first.  That was a social step no one with a college education would
+take if they could avoid it.  Till the rise of technology startups,
+and in particular, Internet startups, it was very unusual for
+educated people to start their own businesses.The eight men who left Shockley Semiconductor to found Fairchild
+Semiconductor, the original Silicon Valley startup, weren't even
+trying to start a company at first.  They were just looking for a
+company willing to hire them as a group.  Then one of their parents
+introduced them to a small investment bank that offered to find
+funding for them to start their own, so they did.  But starting a
+company was an alien idea to them; it was something they backed
+into.
+[4]Now I would guess that practically every Stanford or Berkeley
+undergrad who knows how to program has at least considered the idea
+of starting a startup.  East Coast universities are not far behind,
+and British universities only a little behind them.  This pattern
+suggests that attitudes at Stanford and Berkeley are not an anomaly,
+but a leading indicator.  This is the way the world is going.Of course, Internet startups are still only a fraction of the world's
+economy.  Could a trend based on them be that powerful?I think so.  There's no reason to suppose there's any limit to the
+amount of work that could be done in this area.  Like science,
+wealth seems to expand fractally.  Steam power was a sliver of the
+British economy when Watt started working on it.  But his work led
+to more work till that sliver had expanded into something bigger
+than the whole economy of which it had initially been a part.The same thing could happen with the Internet.  If Internet startups
+offer the best opportunity for ambitious people, then a lot of
+ambitious people will start them, and this bit of the economy will
+balloon in the usual fractal way.Even if Internet-related applications only become a tenth of the
+world's economy, this component will set the tone for the rest.
+The most dynamic part of the economy always does, in everything
+from salaries to standards of dress.  Not just because of its
+prestige, but because the principles underlying the most dynamic
+part of the economy tend to be ones that work.For the future, the trend to bet on seems to be networks of small,
+autonomous groups whose performance is measured individually.  And
+the societies that win will be the ones with the least impedance.As with the original industrial revolution, some societies are going
+to be better at this than others.  Within a generation of its birth
+in England, the Industrial Revolution had spread to continental
+Europe and North America.  But it didn't spread everywhere.  This
+new way of doing things could only take root in places that were
+prepared for it.  It could only spread to places that already had
+a vigorous middle class.There is a similar social component to the transformation that began
+in Silicon Valley in the 1960s.  Two new kinds of techniques were
+developed there: techniques for building integrated circuits, and
+techniques for building a new type of company designed to grow fast
+by creating new technology.  The techniques for building integrated
+circuits spread rapidly to other countries.  But the techniques for
+building startups didn't.  Fifty years later, startups are ubiquitous
+in Silicon Valley and common in a handful of other US cities, but
+they're still an anomaly in most of the world.Part of the reason—possibly the main reason—that startups
+have not spread as broadly as the Industrial Revolution did is their
+social disruptiveness.  Though it brought many social changes, the
+Industrial Revolution was not fighting the principle that bigger
+is better.  Quite the opposite: the two dovetailed beautifully.
+The new industrial companies adapted the customs of existing large
+organizations like the military and the civil service, and the
+resulting hybrid worked well.  "Captains of industry" issued orders
+to "armies of workers," and everyone knew what they were supposed
+to do.Startups seem to go more against the grain, socially.  It's hard
+for them to flourish in societies that value hierarchy and stability,
+just as it was hard for industrialization to flourish in societies
+ruled by people who stole at will from the merchant class.  But
+there were already a handful of countries past that stage when the
+Industrial Revolution happened.   There do not seem to be that many
+ready this time.Notes[1]
+One of the bizarre consequences of this model was that the usual
+way to make more money was to become a manager.  This is one of the
+things startups fix.[2]
+There are a lot of reasons American car companies have been
+doing so much worse than Japanese car companies, but at least one
+of them is a cause for optimism: American graduates have more
+options.[3]
+It's possible that companies will one day be able to grow big
+in revenues without growing big in people, but we are not very far
+along that trend yet.[4]
+Lecuyer, Christophe, Making Silicon Valley, MIT Press, 2006.Thanks to Trevor Blackwell, Paul Buchheit, Jessica Livingston,
+and Robert Morris for reading drafts of this.
+
+ ---- NEW ESSAY ---- 
+
+November 2008One of the differences between big companies and startups is that
+big companies tend to have developed procedures to protect themselves
+against mistakes.  A startup walks like a toddler, bashing
+into things and falling over all the time.  A big company is more
+deliberate.The gradual accumulation of checks in an organization is a kind of
+learning, based on disasters that have happened to it or others
+like it.  After giving a contract to a supplier who goes bankrupt
+and fails to deliver, for example, a company might require all
+suppliers to prove they're solvent before submitting bids.As companies grow they invariably get more such checks, either in
+response to disasters they've suffered, or (probably more often)
+by hiring people from bigger companies who bring with them customs
+for protecting against new types of disasters.It's natural for organizations to learn from mistakes.  The problem
+is, people who propose new checks almost never consider that the
+check itself has a cost.Every check has a cost. For example, consider the case of making
+suppliers verify their solvency.  Surely that's mere prudence?  But
+in fact it could have substantial costs.  There's obviously the
+direct cost in time of the people on both sides who supply and check
+proofs of the supplier's solvency.  But the real costs are the ones
+you never hear about: the company that would be the best supplier,
+but doesn't bid because they can't spare the effort to get verified.
+Or the company that would be the best supplier, but falls just short
+of the threshold for solvency—which will of course have been set
+on the high side, since there is no apparent cost of increasing it.Whenever someone in an organization proposes to add a new check,
+they should have to explain not just the benefit but the cost.  No
+matter how bad a job they did of analyzing it, this meta-check would
+at least remind everyone there had to be a cost, and send them
+looking for it.If companies started doing that, they'd find some surprises.  Joel
+Spolsky recently spoke at Y Combinator about selling software to
+corporate customers.  He said that in most companies software costing
+up to about $1000 could be bought by individual managers without
+any additional approvals.  Above that threshold, software purchases
+generally had to be approved by a committee.  But babysitting this
+process was so expensive for software vendors that it didn't make
+sense to charge less than $50,000.  Which means if you're making
+something you might otherwise have charged $5000 for, you have to
+sell it for $50,000 instead.The purpose of the committee is presumably to ensure that the company
+doesn't waste money. And yet the result is that the company pays
+10 times as much.Checks on purchases will always be expensive, because the harder
+it is to sell something to you, the more it has to cost.  And not
+merely linearly, either.  If you're hard enough to sell to, the
+people who are best at making things don't want to bother.  The
+only people who will sell to you are companies that specialize in
+selling to you.  Then you've sunk to a whole new level of inefficiency.
+Market mechanisms no longer protect you, because the good suppliers
+are no longer in the market.Such things happen constantly to the biggest organizations of all,
+governments.  But checks instituted by governments can cause much
+worse problems than merely overpaying.  Checks instituted by
+governments can cripple a country's whole economy.  Up till about
+1400, China was richer and more technologically advanced than Europe.
+One reason Europe pulled ahead was that the Chinese government
+restricted long trading voyages.  So it was left to the Europeans
+to explore and eventually to dominate the rest of the world, including
+China.In more recent times, Sarbanes-Oxley has practically destroyed the
+US IPO market.  That wasn't the intention of the legislators who
+wrote it.  They just wanted to add a few more checks on public
+companies.  But they forgot to consider the cost.  They forgot that
+companies about to go public are usually rather stretched, and that
+the weight of a few extra checks that might be easy for General
+Electric to bear are enough to prevent younger companies from being
+public at all.Once you start to think about the cost of checks, you can start to
+ask other interesting questions. Is the cost increasing or decreasing?
+Is it higher in some areas than others?  Where does it increase
+discontinuously?  If large organizations started to ask questions
+like that, they'd learn some frightening things.I think the cost of checks may actually be increasing.  The reason
+is that software plays an increasingly important role in companies,
+and the people who write software are particularly harmed by checks.Programmers are unlike many types of workers in that the best ones
+actually prefer to work hard.  This doesn't seem to be the case in
+most types of work.  When I worked in fast food, we didn't prefer
+the busy times.  And when I used to mow lawns, I definitely didn't
+prefer it when the grass was long after a week of rain.Programmers, though, like it better when they write more code.  Or
+more precisely, when they release more code.  Programmers like to
+make a difference.  Good ones, anyway.For good programmers, one of the best things about working for a
+startup is that there are few checks on releases.  In true startups,
+there are no external checks at all.  If you have an idea for a new
+feature in the morning, you can write it and push it to the production
+servers before lunch.  And when you can do that, you have more
+ideas.At big companies, software has to go through various approvals
+before it can be launched.  And the cost of doing this can be
+enormous—in fact, discontinuous.  I was talking recently to a
+group of three programmers whose startup had been acquired a few
+years before by a big company.  When they'd been independent, they
+could release changes instantly.  Now, they said, the absolute
+fastest they could get code released on the production servers was
+two weeks.This didn't merely make them less productive.  It made them hate
+working for the acquirer.Here's a sign of how much programmers like to be able to work hard:
+these guys would have paid to be able to release code immediately,
+the way they used to.  I asked them if they'd trade 10% of the
+acquisition price for the ability to release code immediately, and
+all three instantly said yes.  Then I asked what was the maximum
+percentage of the acquisition price they'd trade for it.  They said
+they didn't want to think about it, because they didn't want to
+know how high they'd go, but I got the impression it might be as
+much as half.They'd have sacrificed hundreds of thousands of dollars, perhaps
+millions, just to be able to deliver more software to users.  And
+you know what?  It would have been perfectly safe to let them.  In
+fact, the acquirer would have been better off; not only wouldn't
+these guys have broken anything, they'd have gotten a lot more done.
+So the acquirer is in fact getting worse performance at greater
+cost.  Just like the committee approving software purchases.And just as the greatest danger of being hard to sell to is not
+that you overpay but that the best suppliers won't even sell to
+you, the greatest danger of applying too many checks to your
+programmers is not that you'll make them unproductive, but that
+good programmers won't even want to work for you.Steve Jobs's famous maxim "artists ship" works both ways.  Artists
+aren't merely capable of shipping.  They insist on it.  So if you
+don't let people ship, you won't have any artists.
+
+ ---- NEW ESSAY ---- 
+
+Want to start a startup?  Get funded by
+Y Combinator.
+
+
+October 2008The economic situation is apparently so grim that some experts fear
+we may be in for a stretch as bad as the mid seventies.When Microsoft and Apple were founded.As those examples suggest, a recession may not be such a bad time
+to start a startup.  I'm not claiming it's a particularly good time
+either.  The truth is more boring: the state of the economy doesn't
+matter much either way.If we've learned one thing from funding so many startups, it's that
+they succeed or fail based on the qualities of the founders.  The
+economy has some effect, certainly, but as a predictor of success
+it's rounding error compared to the founders.Which means that what matters is who you are, not when you do it.
+If you're the right sort of person, you'll win even in a bad economy.
+And if you're not, a good economy won't save you.  Someone who
+thinks "I better not start a startup now, because the economy is
+so bad" is making the same mistake as the people who thought during
+the Bubble "all I have to do is start a startup, and I'll be rich."So if you want to improve your chances, you should think far more
+about who you can recruit as a cofounder than the state of the
+economy.  And if you're worried about threats to the survival of
+your company, don't look for them in the news.  Look in the mirror.But for any given team of founders, would it not pay to wait till
+the economy is better before taking the leap?  If you're starting
+a restaurant, maybe, but not if you're working on technology.
+Technology progresses more or less independently of the stock market.
+So for any given idea, the payoff for acting fast in a bad economy
+will be higher than for waiting.  Microsoft's first product was a
+Basic interpreter for the Altair.  That was exactly what the world
+needed in 1975, but if Gates and Allen had decided to wait a few
+years, it would have been too late.Of course, the idea you have now won't be the last you have.  There
+are always new ideas.  But if you have a specific idea you want to
+act on, act now.That doesn't mean you can ignore the economy.  Both customers and investors
+will be feeling pinched.  It's not necessarily a problem if customers
+feel pinched: you may even be able to benefit from it, by making
+things that save money.  
+Startups often make things cheaper, so in
+that respect they're better positioned to prosper in a recession
+than big companies.Investors are more of a problem.  Startups generally need to raise
+some amount of external funding, and investors tend to be less
+willing to invest in bad times.  They shouldn't be.  Everyone knows
+you're supposed to buy when times are bad and sell when times are
+good.  But of course what makes investing so counterintuitive is
+that in equity markets, good times are defined as everyone thinking
+it's time to buy.  You have to be a contrarian to be correct, and
+by definition only a minority of investors can be.So just as investors in 1999 were tripping over one another trying
+to buy into lousy startups, investors in 2009 will presumably be
+reluctant to invest even in good ones.You'll have to adapt to this.  But that's nothing new: startups
+always have to adapt to the whims of investors.  Ask any founder
+in any economy if they'd describe investors as fickle, and watch
+the face they make.  Last year you had to be prepared to explain
+how your startup was viral.  Next year you'll have to explain how
+it's recession-proof.(Those are both good things to be.  The mistake investors make is
+not the criteria they use but that they always tend to focus on one
+to the exclusion of the rest.)Fortunately the way to make a startup recession-proof is to do
+exactly what you should do anyway: run it as cheaply as possible.
+For years I've been telling founders that the surest route to success
+is to be the cockroaches of the corporate world.  The immediate
+cause of death in a startup is always running out of money. So the
+cheaper your company is to operate, the harder it is to kill.
+And fortunately it has gotten very cheap to run a startup. A recession
+will if anything make it cheaper still.If nuclear winter really is here, it may be safer to be a cockroach
+even than to keep your job.  Customers may drop off individually
+if they can no longer afford you, but you're not going to lose them
+all at once; markets don't "reduce headcount."What if you quit your job to start a startup that fails, and you
+can't find another?  That could be a problem if you work in sales or
+marketing.  In those fields it can take months to find a new
+job in a bad economy.  But hackers seem to be more liquid.  Good
+hackers can always get some kind of job.  It might not be your dream
+job, but you're not going to starve.Another advantage of bad times is that there's less competition.
+Technology trains leave the station at regular intervals.  If 
+everyone else is cowering in a corner, you may have a whole car to
+yourself.You're an investor too.  As a founder, you're buying stock with
+work: the reason Larry and Sergey are so rich is not so much that
+they've done work worth tens of billions of dollars, but that they
+were the first investors in Google.  And like any investor you
+should buy when times are bad.Were you nodding in agreement, thinking "stupid investors" a few
+paragraphs ago when I was talking about how investors are reluctant
+to put money into startups in bad markets, even though that's the
+time they should rationally be most willing to buy?  Well, founders
+aren't much better.  When times get bad, hackers go to grad school.
+And no doubt that will happen this time too.  In fact, what makes
+the preceding paragraph true is that most readers won't believe
+it—at least to the extent of acting on it.So maybe a recession is a good time to start a startup.  It's hard
+to say whether advantages like lack of competition outweigh
+disadvantages like reluctant investors.  But it doesn't matter much
+either way.   It's the people that matter.  And for a given set of
+people working on a given technology, the time to act is always
+now.Russian TranslationChinese TranslationJapanese Translation
+
+ ---- NEW ESSAY ---- 
+
+Want to start a startup?  Get funded by
+Y Combinator.
+
+
+August 2008Raising money is the second hardest part of starting a startup.
+The hardest part is making something people want: most startups
+that die, die because they didn't do that.  But the second biggest
+cause of death is probably the difficulty of raising money.
+Fundraising is brutal.One reason it's so brutal is simply the brutality of markets.  People
+who've spent most of their lives in schools or big companies may
+not have been exposed to that.  Professors and bosses usually feel
+some sense of responsibility toward you; if you make a valiant
+effort and fail, they'll cut you a break.  Markets are less forgiving.
+Customers don't care how hard you worked, only whether you solved
+their problems.Investors evaluate startups the way customers evaluate products,
+not the way bosses evaluate employees.  If you're making a valiant
+effort and failing, maybe they'll invest in your next startup, but
+not this one.But raising money from investors is harder than selling to
+customers, because there are so few of them.  There's
+nothing like an efficient market.  You're unlikely to have more
+than 10 who are interested; it's difficult to talk to more.  So the
+randomness of any one investor's behavior can really affect you.Problem number 3: investors are very random.  All investors, including
+us, are by ordinary standards incompetent.  We constantly have to
+make decisions about things we don't understand, and more often
+than not we're wrong.And yet a lot is at stake.  The amounts invested by different types
+of investors vary from five thousand dollars to fifty million, but
+the amount usually seems large for whatever type of investor it is.
+Investment decisions are big decisions.That combination—making big decisions about things they don't
+understand—tends to make investors very skittish.  VCs are notorious
+for leading founders on.  Some of the more unscrupulous do it
+deliberately.  But even the most well-intentioned investors can
+behave in a way that would seem crazy in everyday life.  One day
+they're full of enthusiasm and seem ready to write you a check on
+the spot; the next they won't return your phone calls.  They're not
+playing games with you.  They just can't make up their minds.
+[1]If that weren't bad enough, these wildly fluctuating nodes are all
+linked together.  Startup investors all know one another, and (though
+they hate to admit it) the biggest factor in their opinion of you
+is the opinion of other investors.  
+[2]
+Talk about a recipe for
+an unstable system.  You get the opposite of the damping that the
+fear/greed balance usually produces in markets.  No one is interested
+in a startup that's a "bargain" because everyone else hates it.So the inefficient market you get because there are so few players
+is exacerbated by the fact that they act less than independently.
+The result is a system like some kind of primitive, multi-celled
+sea creature, where you irritate one extremity and the whole thing
+contracts violently.Y Combinator is working to fix this.  We're trying to increase the
+number of investors just as we're increasing the number of startups.
+We hope that as the number of both increases we'll get something
+more like an efficient market.  As t approaches infinity, Demo Day
+approaches an auction.Unfortunately, t is still very far from infinity.  What does a
+startup do now, in the imperfect world we currently inhabit? The
+most important thing is not to let fundraising get you down.  Startups
+live or die on morale.  If you let the difficulty of raising money
+destroy your morale, it will become a self-fulfilling prophecy.Bootstrapping (= Consulting)Some would-be founders may by now be thinking, why deal with investors
+at all?  If raising money is so painful, why do it?One answer to that is obvious: because you need money to live on.
+It's a fine idea in principle to finance your startup with its own
+revenues, but you can't create instant customers.  Whatever you
+make, you have to sell a certain amount to break even.  It will
+take time to grow your sales to that point, and it's hard to predict,
+till you try, how long it will take.We could not have bootstrapped Viaweb, for example.  We charged
+quite a lot for our software—about $140 per user per month—but
+it was at least a year before our revenues would have covered even
+our paltry costs.  We didn't have enough saved to live on for a
+year.If you factor out the "bootstrapped" companies that were actually
+funded by their founders through savings or a day job, the remainder
+either (a) got really lucky, which is hard to do on demand, or (b)
+began life as consulting companies and gradually transformed
+themselves into product companies.Consulting is the only option you can count on.  But consulting is
+far from free money.  It's not as painful as raising money from
+investors, perhaps, but the pain is spread over a longer period.
+Years, probably.  And for many types of startup, that delay could
+be fatal.  If you're working on something so unusual that no one
+else is likely to think of it, you can take your time.  Joshua
+Schachter gradually built Delicious on the side while working on
+Wall Street.  He got away with it because no one else realized it
+was a good idea.  But if you were building something as obviously
+necessary as online store software at about the same time as Viaweb,
+and you were working on it on the side while spending most of your
+time on client work, you were not in a good position.Bootstrapping sounds great in principle, but this apparently verdant
+territory is one from which few startups emerge alive.  The mere
+fact that bootstrapped startups tend to be famous on that account
+should set off alarm bells.  If it worked so well, it would be the
+norm.
+[3]
+Bootstrapping may get easier, because starting a company is getting
+cheaper.  But I don't think we'll ever reach the point where most
+startups can do without outside funding.  Technology tends to
+get dramatically cheaper, but living expenses don't.The upshot is, you can choose your pain: either the short, sharp
+pain of raising money, or the chronic ache of consulting.  For a
+given total amount of pain, raising money is the better choice,
+because new technology is usually more valuable now than later.But although for most startups raising money will be the lesser
+evil, it's still a pretty big evil—so big that it can easily kill
+you.  Not merely in the obvious sense that if you fail to raise
+money you might have to shut the company down, but because the
+process of raising money itself can kill you.To survive it you need a set of techniques mostly
+orthogonal to the ones used in convincing investors, just as mountain
+climbers need to know survival techniques that are mostly orthogonal
+to those used in physically getting up and down mountains.1. Have low expectations.The reason raising money destroys so many startups' morale is not
+simply that it's hard, but that it's so much harder than they
+expected.  What kills you is the disappointment.  And the lower
+your expectations, the harder it is to be disappointed.Startup founders tend to be optimistic.  This can work well in
+technology, at least some of the time, but it's the wrong way to
+approach raising money.  Better to assume investors will always let
+you down.  Acquirers too, while we're at it.  At YC one of our
+secondary mantras is "Deals fall through."  No matter what deal
+you have going on, assume it will fall through.  The predictive
+power of this simple rule is amazing.There will be a tendency, as a deal progresses, to start to believe
+it will happen, and then to depend on it happening.  You must resist
+this.  Tie yourself to the mast.  This is what kills you.  Deals
+do not have a trajectory like most other human interactions, where
+shared plans solidify linearly over time.  Deals often fall through
+at the last moment.  Often the other party doesn't really think
+about what they want till the last moment.  So you can't use your
+everyday intuitions about shared plans as a guide.  When it comes
+to deals, you have to consciously turn them off and become
+pathologically cynical.This is harder to do than it sounds.  It's very flattering when
+eminent investors seem interested in funding you.  It's easy to
+start to believe that raising money will be quick and straightforward.
+But it hardly ever is.2. Keep working on your startup.It sounds obvious to say that you should keep working on your startup
+while raising money.  Actually this is hard to do.  Most startups
+don't manage to.Raising money has a mysterious capacity to suck up all your attention.
+Even if you only have one meeting a day with investors, somehow
+that one meeting will burn up your whole day.  It costs not just
+the time of the actual meeting, but the time getting there and back,
+and the time preparing for it beforehand and thinking about it
+afterward.The best way to survive the distraction of meeting with investors
+is probably to partition the company: to pick one founder to deal
+with investors while the others keep the company going.  This works
+better when a startup has 3 founders than 2, and better when the
+leader of the company is not also the lead developer.  In the best
+case, the company keeps moving forward at about half speed.That's the best case, though.  More often than not the company comes
+to a standstill while raising money.  And that is dangerous for so
+many reasons.  Raising money always takes longer than you expect.
+What seems like it's going to be a 2 week interruption turns into
+a 4 month interruption.  That can be very demoralizing.  And worse
+still, it can make you less attractive to investors.  They want to
+invest in companies that are dynamic.  A company that hasn't done
+anything new in 4 months doesn't seem dynamic, so they start to
+lose interest.  Investors rarely grasp this, but much of what
+they're responding to when they lose interest in a startup is the
+damage done by their own indecision.The solution: put the startup first.  Fit meetings with investors
+into the spare moments in your development schedule, rather than
+doing development in the spare moments between meetings with
+investors.  If you keep the company moving forward—releasing new
+features, increasing traffic, doing deals, getting written 
+about—those investor meetings are more likely to be productive.  Not just
+because your startup will seem more alive, but also because it will
+be better for your own morale, which is one of the main ways investors
+judge you.3. Be conservative.As conditions get worse, the optimal strategy becomes more conservative.
+When things go well you can take risks; when things are bad you
+want to play it safe.I advise approaching fundraising as if it were always going badly.
+The reason is that between your ability to delude yourself and the
+wildly unstable nature of the system you're dealing with, things
+probably either already are or could easily become much worse than
+they seem.What I tell most startups we fund is that if someone reputable
+offers you funding on reasonable terms, take it.  There have been
+startups that ignored this advice and got away with it—startups
+that ignored a good offer in the hope of getting a better one, and
+actually did.  But in the same position I'd give the same advice
+again.  Who knows how many bullets were in the gun they were playing
+Russian roulette with?Corollary: if an investor seems interested, don't just let them
+sit. You can't assume someone interested in investing will stay
+interested.  In fact, you can't even tell (they can't even tell)
+if they're really interested till you try to convert that interest
+into money.  So if you have hot prospect, either close them now or
+write them off.  And unless you already have enough funding, that
+reduces to: close them now.Startups don't win by getting great funding rounds, but by making
+great products.  So finish raising money and get
+back to work.4. Be flexible.There are two questions VCs ask that you shouldn't answer: "Who
+else are you talking to?" and "How much are you trying to raise?"VCs don't expect you to answer the first question. They ask it just
+in case. 
+[4]
+They do seem to expect an answer to the second.  But
+I don't think you should just tell them a number.  Not as a way to
+play games with them, but because you shouldn't have a fixed
+amount you need to raise.The custom of a startup needing a fixed amount of funding is an
+obsolete one left over from the days when startups were more
+expensive.  A company that needed to build a factory or hire 50
+people obviously needed to raise a certain minimum amount.  But few
+technology startups are in that position today.We advise startups to tell investors there are several different
+routes they could take depending on how much they raised.  As little
+as $50k could pay for food and rent for the founders for a year.
+A couple hundred thousand would let them get office space and hire
+some smart people they know from school.  A couple million would
+let them really blow this thing out.  The message (and not just the
+message, but the fact) should be: we're going to succeed no matter
+what.  Raising more money just lets us do it faster.If you're raising an angel round, the size of the round can even
+change on the fly.  In fact, it's just as well to make the round
+small initially, then expand as needed, rather than trying to raise
+a large round and risk losing the investors you already have if you
+can't raise the full amount.  You may even want to do a "rolling
+close," where the round has no predetermined size, but instead you
+sell stock to investors one at a time as they say yes.  That helps
+break deadlocks, because you can start as soon as the first one
+is ready to buy. 
+[5]5. Be independent.A startup with a couple founders in their early twenties can have
+expenses so low that they could be profitable on
+as little as $2000 per month.  That's negligible as corporate
+revenues go, but the effect on your morale and your bargaining
+position is anything but.  At YC we use the phrase "ramen profitable"
+to describe the situation where you're making just enough to pay
+your living expenses.  Once you cross into ramen profitable,
+everything changes.  You may still need investment to make it big,
+but you don't need it this month.You can't plan when you start a startup how long
+it will take to become profitable.  But if you find yourself in a
+position where a little more effort expended on sales would carry
+you over the threshold of ramen profitable, do it.Investors like it when you're ramen profitable.  It shows you've
+thought about making money, instead of just working on amusing
+technical problems; it shows you have the discipline to keep your
+expenses low; but above all, it means you don't need them.There is nothing investors like more than a startup that seems like
+it's going to succeed even without them.  Investors like it when
+they can help a startup, but they don't like startups that would
+die without that help.At YC we spend a lot of time trying to predict how the startups we've
+funded will do, because we're trying to learn how to pick winners.
+We've now watched the trajectories of so many startups that we're
+getting better at predicting them.  And when we're talking
+about startups we think are likely to succeed, what we find ourselves
+saying is things like "Oh, those guys can take care of themselves.
+They'll be fine." Not "those guys are really smart" or
+"those guys are working on a great idea."
+[6]
+When we predict good outcomes for startups, the qualities
+that come up in the supporting arguments are toughness, adaptability,
+determination.  Which means to the extent we're correct, those are
+the qualities you need to win.Investors know this, at least unconsciously.   The reason they like
+it when you don't need them is not simply that they like what they
+can't have, but because that quality is what makes founders succeed.Sam Altman 
+has it.  You could parachute him into an island full of
+cannibals and come back in 5 years and he'd be the king.  If you're
+Sam Altman, you don't have to be profitable to convey to investors
+that you'll succeed with or without them.  (He wasn't, and he did.)
+Not everyone has Sam's deal-making ability.  I myself don't.  But
+if you don't, you can let the numbers speak for you.6. Don't take rejection personally.Getting rejected by investors can make you start to doubt yourself.
+After all, they're more experienced than you.  If they think your
+startup is lame, aren't they probably right?Maybe, maybe not.  The way to handle rejection is with precision.
+You shouldn't simply ignore rejection.  It might mean something.
+But you shouldn't automatically get demoralized either.To understand what rejection means, you have to understand first
+of all how common it is.  Statistically, the average VC is a rejection
+machine.  David Hornik, a partner at August, told me:
+
+  The numbers for me ended up being something like 500 to 800 plans
+  received and read, somewhere between 50 and 100 initial 1 hour
+  meetings held, about 20 companies that I got interested in, about
+  5 that I got serious about and did a bunch of work, 1 to 2 deals
+  done in a year.  So the odds are against you.  You
+  may be a great entrepreneur, working on interesting stuff, etc.
+  but it is still incredibly unlikely that you get funded.
+
+This is less true with angels, but VCs reject practically everyone.
+The structure of their business means a partner does at most 2 new
+investments a year, no matter how many good startups approach him.In addition to the odds being terrible, the average investor is,
+as I mentioned, a pretty bad judge of startups.  It's harder to
+judge startups than most other things, because great startup ideas
+tend to seem wrong. A good startup idea has to be not just good but
+novel.  And to be both good and novel, an idea probably has to seem
+bad to most people, or someone would already be doing it and it
+wouldn't be novel.That makes judging startups harder than most other things one judges.
+You have to be an intellectual contrarian to be a good startup
+investor.  That's a problem for VCs, most of whom are not particularly
+imaginative.  VCs are mostly money guys, not people who make things.
+[7]
+Angels are better at appreciating novel ideas, because most
+were founders themselves.So when you get a rejection, use the data that's in it, and not what's
+not.  If an investor gives you specific reasons for not investing,
+look at your startup and ask if they're right.  If they're real
+problems, fix them.  But don't just take their word for it.  You're
+supposed to be the domain expert; you have to decide.Though a rejection doesn't necessarily tell you anything about your
+startup, it does suggest your pitch could be improved.  Figure out
+what's not working and change it.  Don't just think "investors are
+stupid."  Often they are, but figure out precisely where you lose
+them.Don't let rejections pile up as a depressing, undifferentiated heap.
+Sort them and analyze them, and then instead of thinking "no one
+likes us," you'll know precisely how big a problem you have, and
+what to do about it.7. Be able to downshift into consulting (if appropriate).Consulting, as I mentioned, is a dangerous way to finance a startup.
+But it's better than dying.  It's a bit like anaerobic respiration:
+not the optimum solution for the long term, but it can save you
+from an immediate threat.  If you're having trouble raising money
+from investors at all, it could save you to be able to shift
+toward consulting.This works better for some startups than others.  It wouldn't have
+been a natural fit for, say, Google, but if your company was making
+software for building web sites, you could degrade fairly gracefully
+into consulting by building sites for clients with it.So long as you were careful not to get sucked permanently into
+consulting, this could even have advantages.  You'd understand your
+users well if you were using the software for them.  Plus as a
+consulting company you might be able to get big-name users using
+your software that you wouldn't have gotten as a product company.At Viaweb we were forced to operate like a consulting company
+initially, because we were so desperate for users that we'd offer
+to build merchants' sites for them if they'd sign up. 
+But we never charged for such work, because we didn't want them to
+start treating us like actual consultants, and calling us every
+time they wanted something changed on their site.  We knew we had
+to stay a product company, because only
+that scales.8. Avoid inexperienced investors.Though novice investors seem unthreatening they can be the most
+dangerous sort, because they're so nervous.  Especially in
+proportion to the amount they invest.  Raising $20,000 from a first-time
+angel investor can be as much work as raising $2 million from
+a VC fund.Their lawyers are generally inexperienced too.  But while the
+investors can admit they don't know what they're doing, their lawyers
+can't.  One YC startup negotiated terms for a tiny round with
+an angel, only to receive a 70-page agreement from his lawyer.  And
+since the lawyer could never admit, in front of his client, that
+he'd screwed up, he instead had to insist on retaining all the
+draconian terms in it, so the deal fell through.Of course, someone has to take money from novice investors, or there
+would never be any experienced ones.  But if you do, either (a)
+drive the process yourself, including supplying the 
+paperwork, or
+(b) use them only to fill up a larger round led by someone else.9. Know where you stand.The most dangerous thing about investors is their indecisiveness.
+The worst case scenario is the long no, the no that comes after
+months of meetings.  Rejections from investors are like design
+flaws: inevitable, but much less costly if you discover them early.So while you're talking to investors, constantly look for signs of
+where you stand.  How likely are they to offer you a term sheet?
+What do they have to be convinced of first?  You shouldn't necessarily
+always be asking these questions outright—that could get 
+annoying—but you should always be collecting data about them.Investors tend to resist committing except to the extent you push
+them to.  It's in their interest to collect the maximum amount of
+information while making the minimum number of decisions.  The best
+way to force them to act is, of course, competing investors.  But
+you can also apply some force by focusing the discussion:
+by asking what specific questions they need answered to make
+up their minds, and then answering them.  If you get through several
+obstacles and they keep raising new ones, assume that ultimately
+they're going to flake.You have to be disciplined when collecting data about investors'
+intentions.  Otherwise their desire to lead you on will combine
+with your own desire to be led on to produce completely inaccurate
+impressions.Use the data to weight your strategy.
+You'll probably be talking to several investors.  Focus on the ones
+that are most likely to say yes.  The value of a potential investor
+is a combination of how good it would be if they said yes, and how
+likely they are to say it.  Put the most weight on the second factor.
+Partly because the most important quality in an investor is simply
+investing.  But also because, as I mentioned, the biggest factor
+in investors' opinion of you is other investors' opinion of you.
+If you're talking to several investors and you manage to get one
+over the threshold of saying yes, it will make the others much more
+interested.  So you're not sacrificing the lukewarm investors if
+you focus on the hot ones; convincing the hot investors is the best
+way to convince the lukewarm ones.FutureI'm hopeful things won't always be so awkward. I hope that as startups
+get cheaper and the number of investors increases, raising money
+will become, if not easy, at least straightforward.In the meantime, the brokenness of the funding process offers a big
+opportunity.  Most investors have no idea how dangerous they are.
+They'd be surprised to hear that raising money from them is something
+that has to be treated as a threat to a company's survival.  They
+just think they need a little more information to make up their
+minds.  They don't get that there are 10 other investors who also
+want a little more information, and that the process of talking to
+them all can bring a startup to a standstill for months.Because investors don't understand the cost of dealing with them,
+they don't realize how much room there is for a potential competitor
+to undercut them.  I know from my own experience how much faster
+investors could decide, because we've brought our own time down to
+20 minutes (5 minutes of reading an application plus a 10 minute
+interview plus 5 minutes of discussion).  If you were investing
+more money you'd want to take longer, of course.  But if we can
+decide in 20 minutes, should it take anyone longer than a couple
+days?Opportunities like this don't sit unexploited forever, even in an
+industry as conservative as venture capital.  So
+either existing investors will start to make up their minds faster,
+or new investors will emerge who do.In the meantime founders have to treat raising money as a dangerous
+process.  Fortunately, I can fix the biggest danger right here.
+The biggest danger is surprise.  It's that startups will underestimate
+the difficulty of raising money—that they'll cruise through all
+the initial steps, but when they turn to raising money they'll find
+it surprisingly hard, get demoralized, and give up. So I'm telling
+you in advance: raising money is hard.Notes[1]
+When investors can't make up their minds, they sometimes
+describe it as if it were a property of the startup.  "You're too
+early for us," they sometimes say.  But which of them, if they were
+taken back in a time machine to the hour Google was founded, wouldn't
+offer to invest at any valuation the founders chose?  An hour old
+is not too early if it's the right startup.  What "you're too early"
+really means is "we can't figure out yet whether you'll succeed."
+[2]
+Investors influence one another both directly and indirectly.
+They influence one another directly through the "buzz" that surrounds
+a hot startup.  But they also influence one another indirectly
+through the founders.  When a lot of investors are interested in
+you, it increases your confidence in a way that makes you much more
+attractive to investors.No VC will admit they're influenced by buzz.  Some genuinely aren't.
+But there are few who can say they're not influenced by confidence.[3]
+One VC who read this essay wrote:"We try to avoid companies that got bootstrapped with consulting. 
+It creates very bad behaviors/instincts that are hard to erase 
+from a company's culture."[4]
+The optimal way to answer the first question is to say that
+it would be improper to name names, while simultaneously implying
+that you're talking to a bunch of other VCs who are all about to
+give you term sheets.  If you're the sort of person who understands
+how to do that, go ahead.  If not, don't even try.  Nothing annoys
+VCs more than clumsy efforts to manipulate them.[5]
+The disadvantage of expanding a round on the fly is that the
+valuation is fixed at the start, so if you get a sudden rush of
+interest, you may have to decide between turning some investors
+away and selling more of the company than you meant to.  That's a
+good problem to have, however.[6]
+I wouldn't say that intelligence doesn't matter in startups.
+We're only comparing YC startups, who've already made it over a
+certain threshold.[7]
+But not all are.  Though most VCs are suits at heart,
+the most successful ones tend not to be.  Oddly enough,
+the best VCs tend to be the least VC-like.Thanks to Trevor Blackwell, David Hornik, Jessica Livingston,
+Robert Morris, and Fred Wilson for reading drafts of this.Russian Translation
