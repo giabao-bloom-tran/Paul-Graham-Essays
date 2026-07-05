@@ -64,8 +64,25 @@ collect_essay <- function(url) {
 pg_essays <- map_df(essays$url,collect_essay)
 
 
+# Export into Batch -------------------------------------------------------
+
+pg_essays_batched <- pg_essays |> 
+  mutate(batch_id = (row_number() - 1) %/% 20)
+
+essays_group <-split(pg_essays_batched, pg_essays_batched$batch_id)
+
+
+
 # Export ------------------------------------------------------------------
 
-combined_text <- paste(pg_essays$Text,collapse='\n\n ---- NEW ESSAY ---- \n\n')
-writeLines(combined_text,'Paul Graham Essays.txt')
-
+walk(essays_group, function(group) {
+  # Collapse just the essays in this specific batch
+  combined_text <- paste(group$Text, collapse = '\n\n ---- NEW ESSAY ---- \n\n')
+  
+  # Generate a dynamic filename, e.g., "Paul_Graham_Essays_Batch_1.txt"
+  file_name <- paste0("Paul_Graham_Essays_Batch_", group$batch_id[1], ".txt")
+  
+  # Save the file
+  writeLines(combined_text, file_name)
+  cat("Saved:", file_name, "containing", nrow(group), "essays.\n")
+})
